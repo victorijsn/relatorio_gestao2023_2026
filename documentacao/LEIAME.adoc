@@ -1,0 +1,101 @@
+= Guia de Uso e Editoração: Relatório de Gestão SETADES (2023–2026)
+:toc: left
+:toc-title: Conteúdo
+:icons: font
+
+== 1. Visão Geral do Projeto
+
+Este repositório estrutura e automatiza a editoração do **Relatório de Gestão da SETADES (2023–2026)** utilizando **AsciiDoc** (`Asciidoctor PDF`) e o tema oficial baseado no manual de **Identidade Visual do Governo do Estado do Espírito Santo (SECOM-ES)**.
+
+=== Estrutura de Pastas
+
+[cols="1,3", options="header"]
+|===
+| Caminho | Finalidade
+
+| `index.adoc`
+| **Documento mestre** do relatório. Define os atributos globais, capa, sumário e a ordem de inclusão (`include::`) de todas as Subsecretarias e Gerências.
+
+| `capitulos/`
+| Contém os capítulos modulares em AsciiDoc organizados nas pastas `SUBAAD/`, `SUBAPI/`, `SUBADES/` e `SUBGEP/`.
+
+| `Textos - áreas/`
+| Pasta de entrada onde devem ser colocados os arquivos `.docx` enviados pelas gerências (preenchidos a partir do `Modelo do texto.docx`).
+
+| `tema/setades-theme.yml`
+| Tema visual do `asciidoctor-pdf` com a paleta oficial SECOM-ES (Azul `#366C88`, Marsala `#9C5C6A`, Cinza `#7B7B7A`) e tipografia **Open Sans**.
+
+| `tema/fonts/`
+| Fontes TrueType da família **Open Sans** incorporadas diretamente no PDF final.
+
+| `scripts/gerar_estrutura_inicial.py`
+| Gera os 10 arquivos `.adoc` das gerências pré-populados com as **58 ações/processos** e respectivos responsáveis mapeados na Lista de Ações.
+
+| `scripts/converter_docx_para_adoc.py`
+| Lê os arquivos `.docx` depositados em `Textos - áreas/` e atualiza automaticamente o arquivo `.adoc` da gerência correspondente.
+
+| `compilar.ps1`
+| Script PowerShell que executa a conversão dos `.docx` e compila o PDF final em `dist/Relatorio_Gestao_SETADES_2023_2026.pdf`.
+|===
+
+---
+
+== 2. Como Receber e Integrar os Textos das Áreas
+
+Você pode trabalhar de **duas maneiras complementares**:
+
+=== Opção A: Importando arquivos Word (`.docx`) enviados pelas áreas
+1. Quando uma gerência enviar seu arquivo `.docx` preenchido no modelo oficial (ex.: `SUBADES - GSUAS.docx` ou `SUBGEP - NAGI.docx`), salve-o na pasta `Textos - áreas/`.
+2. Execute no PowerShell:
++
+[source,powershell]
+----
+.\compilar.ps1
+----
+3. O script `scripts/converter_docx_para_adoc.py` identificará automaticamente a Subsecretaria e a Gerência, extrairá a tabela de identificação e as fichas da Parte 1 (*1. Descrição resumida*, *2. Entregas realizadas no mandato* e *3. Desafios para a continuidade da ação*) e atualizará o arquivo `.adoc` correspondente em `capitulos/`.
+
+=== Opção B: Editando diretamente os arquivos `.adoc`
+Todos os 10 arquivos de unidades já estão criados e pré-estruturados com os títulos oficiais de cada ação em:
+
+* `capitulos/SUBAAD/SUBAAD-GGCONV.adoc`
+* `capitulos/SUBAAD/SUBAAD-GADM.adoc`
+* `capitulos/SUBAPI/SUBAPI-GCAM.adoc`
+* `capitulos/SUBADES/SUBADES-GPSB.adoc`
+* `capitulos/SUBADES/SUBADES-GPSE.adoc`
+* `capitulos/SUBADES/SUBADES-GBTR.adoc`
+* `capitulos/SUBADES/SUBADES-GSUAS.adoc`
+* `capitulos/SUBADES/SUBADES-VIGILANCIA.adoc`
+* `capitulos/SUBADES/SUBADES-GSAN.adoc`
+* `capitulos/SUBGEP/SUBGEP-NAGI.adoc`
+
+Basta abrir qualquer um desses arquivos em um editor de texto (como VS Code com a extensão *AsciiDoc*) e substituir `_Texto pendente de envio pela área técnica._` pelo relato definitivo.
+
+---
+
+== 3. Pré-requisitos para Compilação do PDF (Primeira Configuração)
+
+As fontes **Open Sans** já estão configuradas localmente em `tema/fonts/`. Para instalar o compilador **Asciidoctor PDF** na rede da SETADES:
+
+1. No PowerShell, autentique sua sessão na proxy (caso necessário):
++
+[source,powershell]
+----
+$cred = Get-Credential
+$user = [uri]::EscapeDataString($cred.UserName)
+$pass = [uri]::EscapeDataString($cred.GetNetworkCredential().Password)
+$env:HTTP_PROXY  = "http://${user}:${pass}@10.186.1.2:3128"
+$env:HTTPS_PROXY = "http://${user}:${pass}@10.186.1.2:3128"
+----
+2. Instale o Ruby e a gem `asciidoctor-pdf`:
++
+[source,powershell]
+----
+winget install RubyInstallerTeam.RubyWithDevKit.3.2
+gem install asciidoctor asciidoctor-pdf
+----
+3. Compile o relatório:
++
+[source,powershell]
+----
+.\compilar.ps1
+----
