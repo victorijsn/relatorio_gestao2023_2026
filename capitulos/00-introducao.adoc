@@ -1,0 +1,44 @@
+= Apresentação Institucional
+
+[.introducao]#RELATÓRIO DE GESTÃO QUADRIENAL • 2023 A 2026#
+
+O presente **Relatório de Gestão da Secretaria de Estado de Trabalho, Assistência e Desenvolvimento Social (SETADES)** consolida as principais ações, projetos e processos prioritários executados no ciclo governamental de **2023 a 2026**.
+
+Estruturado por Subsecretaria e Gerência/Unidade Técnica, cada relato segue o modelo institucional padronizado em três eixos:
+
+* **1. Descrição resumida**: caracterização da iniciativa, público atendido e periodicidade;
+* **2. Entregas realizadas no mandato (2023 a 2026)**: resultados alcançados, metas cumpridas, volume de atendimentos, cobertura municipal e execução orçamentária;
+* **3. Desafios para a continuidade da ação**: pontos de atenção orçamentários, operacionais, tecnológicos e de gestão para o próximo ciclo.
+
+.Síntese da Estrutura Mapeada no Relatório
+[cols="2,3,1,1", options="header"]
+|===
+| Sigla | Subsecretaria | Unidades | Ações Mapeadas
+
+| *SUBAAD*
+| Subsecretaria de Estado para Assuntos Administrativos
+| 2
+| 2
+
+| *SUBAPI*
+| Subsecretaria de Estado de Articulação de Políticas Intersetoriais
+| 1
+| 5
+
+| *SUBADES*
+| Subsecretaria de Estado de Assistência e Desenvolvimento Social
+| 6
+| 40
+
+| *SUBGEP*
+| Subsecretaria de Estado de Gestão de Programas e Projetos
+| 1
+| 11
+
+| *TOTAL*
+| *4 Subsecretarias*
+| *10*
+| *58*
+|===
+
+<<<

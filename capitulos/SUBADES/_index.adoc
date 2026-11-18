@@ -1,0 +1,20 @@
+= Subsecretaria de Estado de Assistência e Desenvolvimento Social (SUBADES)
+
+[.introducao]#UNIDADES TÉCNICAS: 6 • AÇÕES E PROCESSOS RELATADOS: 40#
+
+Unidade responsável pela coordenação estadual do Sistema Único de Assistência Social (SUAS), Proteção Social Básica e Especial, Benefícios, Vigilância Socioassistencial e Segurança Alimentar e Nutricional.
+
+.Quadro Síntese das Unidades e Responsáveis
+[cols="2,2,1", options="header"]
+|===
+| Gerência / Unidade | Responsável | Nº de Ações
+
+| Gerência de Proteção Social Básica (GPSB) | Nilzamara Rosa Tesch Oliveira (Gerente) | 4
+| Gerência de Proteção Social Especial (GPSE) | Douglas Mothé Rossetto (Gerente) | 8
+| Gerência de Benefícios e Transferência de Renda (GBTR) | Ricardo Azevedo Masruha (Gerente) | 7
+| Gerência do Sistema Único de Assistência Social (GSUAS) | Quécia Cristina De Abreu (Gerente) | 6
+| Vigilância Socioassistencial | Rafael Duarte Oliveira (Coordenador) | 8
+| Gerência de Segurança Alimentar e Nutricional (GSAN) | Isadora Chagas Queiroz (Gerente) | 7
+|===
+
+'''

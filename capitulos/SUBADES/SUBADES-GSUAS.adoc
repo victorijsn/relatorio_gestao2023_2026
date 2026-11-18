@@ -1,0 +1,121 @@
+= Gerência do Sistema Único de Assistência Social (GSUAS)
+
+.Identificação da Unidade
+[cols="1,3", options="header"]
+|===
+| Campo | Preenchimento
+| *Subsecretaria* | Subsecretaria de Estado de Assistência e Desenvolvimento Social (SUBADES)
+| *Gerência ou setor* | Gerência do Sistema Único de Assistência Social (GSUAS)
+| *Responsável* | Quécia Cristina De Abreu (Gerente)
+| *Contato* | _A preencher (e-mail institucional e telefone/ramal)_
+|===
+
+'''
+
+== Cofinanciamento Estadual dos Benefícios Eventuais e Serviços Socioassistenciais Continuados
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Aprimoramento da Gestão e apoio técnico aos municípios
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Fortalecimento das instâncias de pactuação e controle social (CIB/ES e CEAS/ES)
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Rede SUAS
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Gestão do Trabalho e Educação Permanente do SUAS
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Revista do SUAS ES
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<

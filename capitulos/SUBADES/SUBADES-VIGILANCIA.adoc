@@ -1,0 +1,157 @@
+= Vigilância Socioassistencial
+
+.Identificação da Unidade
+[cols="1,3", options="header"]
+|===
+| Campo | Preenchimento
+| *Subsecretaria* | Subsecretaria de Estado de Assistência e Desenvolvimento Social (SUBADES)
+| *Gerência ou setor* | Vigilância Socioassistencial
+| *Responsável* | Rafael Duarte Oliveira (Coordenador)
+| *Contato* | _A preencher (e-mail institucional e telefone/ramal)_
+|===
+
+'''
+
+== Diagnóstico Socioterritorial, enquanto projeto
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Vigilância em Rede, enquanto ação
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Monitoramento do RMA, enquanto processo
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Monitoramento dos indicadores socioassistenciais, enquanto processo
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Apoio técnico para acesso aos sistemas, enquanto processo
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Orientação técnica aos municípios, enquanto processo
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Produção de boletins internos, enquanto processo
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Organização e atualização do CADUAS, enquanto processo
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<

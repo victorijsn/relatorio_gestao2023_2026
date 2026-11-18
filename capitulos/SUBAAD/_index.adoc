@@ -1,0 +1,16 @@
+= Subsecretaria de Estado para Assuntos Administrativos (SUBAAD)
+
+[.introducao]#UNIDADES TÉCNICAS: 2 • AÇÕES E PROCESSOS RELATADOS: 2#
+
+Unidade responsável pela coordenação administrativa, orçamentária, financeira, de contratos e de convênios da SETADES.
+
+.Quadro Síntese das Unidades e Responsáveis
+[cols="2,2,1", options="header"]
+|===
+| Gerência / Unidade | Responsável | Nº de Ações
+
+| Gerência de Gestão de Convênios (GGCONV) | Thiago Mendes dos Santos (Gerente de Gestão de Convênios) | 1
+| Gerência Administrativa (GADM) | Fabiana Cardinott Reis Mignone (Gerente Administrativa) | 1
+|===
+
+'''

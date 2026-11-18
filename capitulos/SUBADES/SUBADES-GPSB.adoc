@@ -1,0 +1,85 @@
+= Gerência de Proteção Social Básica (GPSB)
+
+.Identificação da Unidade
+[cols="1,3", options="header"]
+|===
+| Campo | Preenchimento
+| *Subsecretaria* | Subsecretaria de Estado de Assistência e Desenvolvimento Social (SUBADES)
+| *Gerência ou setor* | Gerência de Proteção Social Básica (GPSB)
+| *Responsável* | Nilzamara Rosa Tesch Oliveira (Gerente)
+| *Contato* | _A preencher (e-mail institucional e telefone/ramal)_
+|===
+
+'''
+
+== Apoio Técnico e Assessoramento aos Municípios na Gestão e Execução dos Serviços da Proteção Social Básica
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Nilzamara Rosa Tesch Oliveira (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Monitoramento dos Serviços Socioassistenciais da Proteção Social Básica nos Municípios do Espírito Santo
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Nilzamara Rosa Tesch Oliveira (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Cofinanciamento Estadual para Construção, Reforma e Ampliação de Equipamentos Socioassistenciais
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Nilzamara Rosa Tesch Oliveira (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Cofinanciamento Estadual para Aquisição de Mobiliário dos Equipamentos Socioassistenciais
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Nilzamara Rosa Tesch Oliveira (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<

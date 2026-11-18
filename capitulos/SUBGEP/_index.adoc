@@ -1,0 +1,15 @@
+= Subsecretaria de Estado de Gestão de Programas e Projetos (SUBGEP)
+
+[.introducao]#UNIDADES TÉCNICAS: 1 • AÇÕES E PROCESSOS RELATADOS: 11#
+
+Unidade responsável pela gestão da informação, monitoramento e avaliação de políticas públicas, gestão do conhecimento, planejamento estratégico e inovação em processos.
+
+.Quadro Síntese das Unidades e Responsáveis
+[cols="2,2,1", options="header"]
+|===
+| Gerência / Unidade | Responsável | Nº de Ações
+
+| Núcleo de Avaliação e Gestão da Informação (NAGI) | Victor Nunes Toscano (Gerente) | 11
+|===
+
+'''

@@ -1,0 +1,15 @@
+# Arquivos temporários do Microsoft Word / Office
+~$*.docx
+~$*.doc
+~$*.xlsx
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários de compilação de PDF (quando o PDF principal está aberto)
+dist/*_atualizado.pdf
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store

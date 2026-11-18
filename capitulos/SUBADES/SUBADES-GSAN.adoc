@@ -1,0 +1,139 @@
+= Gerência de Segurança Alimentar e Nutricional (GSAN)
+
+.Identificação da Unidade
+[cols="1,3", options="header"]
+|===
+| Campo | Preenchimento
+| *Subsecretaria* | Subsecretaria de Estado de Assistência e Desenvolvimento Social (SUBADES)
+| *Gerência ou setor* | Gerência de Segurança Alimentar e Nutricional (GSAN)
+| *Responsável* | Isadora Chagas Queiroz (Gerente)
+| *Contato* | _A preencher (e-mail institucional e telefone/ramal)_
+|===
+
+'''
+
+== Ação 6863 - Segurança Alimentar e Nutricional (SAN)
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Programa Compra Direta de Alimentos (CDA)
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Programa de Aquisição de Alimentos (PAA)
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Projeto Cozinhas Solidárias
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Formação Continuada em Segurança Alimentar e Nutricional
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Manutenção Corretiva, Preventiva e Evolutiva do Sistema SisCDA (Contrato nº 2025.000022.47101.01 – Form's Informática LTDA)
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
+
+== Execução Operacional do Pagamento aos Agricultores Beneficiados do Programa CDA (Contrato nº 2024.000004.47101.01 – BANESTES)
+
+[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
+
+=== 1. Descrição resumida
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+_Texto pendente de envio pela área técnica._
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+_Texto pendente de envio pela área técnica._
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+_Texto pendente de envio pela área técnica._
+
+<<<
