@@ -7,25 +7,44 @@
 | *Subsecretaria* | Subsecretaria de Estado para Assuntos Administrativos (SUBAAD)
 | *Gerência ou setor* | Gerência Administrativa (GADM)
 | *Responsável* | Fabiana Cardinott Reis Mignone (Gerente Administrativa)
-| *Contato* | _A preencher (e-mail institucional e telefone/ramal)_
+| *Contato* | fabianamignone@setades.es.gov.br  / Telefone: (27) 3636-6872
+
 |===
 
 '''
 
 == Gestão e Execução dos Contratos Administrativos de Natureza Continuada
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Fabiana Cardinott Reis Mignone (Gerente Administrativa)#
-
 === 1. Descrição resumida
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+No período de 2023 a 2026, a SETADES manteve em pleno funcionamento 14 contratos administrativos de natureza continuada destinados à gestão e execução de serviços essenciais, locação de imóveis, manutenção predial, suprimentos (almoxarifado virtual), logística, tecnologia e modernização energética. Essa infraestrutura física, administrativa e operacional garante o pleno funcionamento da estrutura interna da Secretaria e viabiliza a execução de suas atividades institucionais, políticas públicas e serviços socioassistenciais e de trabalho prestados aos municípios capixabas.
+
+Até novembro de 2026, as contratações permanecem em execução contínua para suprir as rotinas mensais de custeio e manutenção, com exceção do projeto de geração distribuída de energia fotovoltaica, que ainda não apresenta execução física ou financeira.
+
+A gestão e o acompanhamento dos contratos em execução são de responsabilidade dos respectivos gestores formalmente designados, que estão vinculados, especialmente, ao Grupo de Administração (GA), por meio das áreas de Administração, Transporte, Almoxarifado e Protocolo, e ao Grupo de Tecnologia da Informação (GTI), não sendo atribuição concentrada exclusivamente na Gerência Administrativa.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+* Processo nº 2026-02C9M: Contratação referente à distribuição de energia elétrica (CNPJ: 28.152.650/0001-71), com valor médio atualizado em novembro de 2026 de R$9.738,43.
+* Processo nº 2022-BTB7H: Contratação referente ao aluguel de imóvel / Condomínio SETADES (CNPJ: 09.294.366/0001-95), com valores médios atualizados em novembro de 2026 de R$44.059,19 (taxa de condomínio) e R$ 126.967,83 (aluguel).
+* Processo nº 2021-812KF: Contratação referente ao outsourcing de impressão (CNPJ: 07.346.326/0001-14), com valor médio atualizado em novembro de 2026 de R$8.160,51.
+* Processo nº 2022-DCRM0: Contratação referente ao pacote dos serviços dos Correios, com valor médio atualizado em novembro de 2026 de R$ 27,35.
+* Processo nº 2022-5S8FL: Contratação referente à locação de veículos (CNPJ: 03.867.711/0001-56), com valor médio atualizado em novembro de 2026 de R$20.508,87.
+* Processo nº 2022-JG76S: Prestação de serviços de limpeza, conservação e manutenção predial, com valor médio atualizado em novembro de 2026 de R$46.101,59.
+* Processo nº 2022-C064T: Prestação de serviços de manutenção preventiva e corretiva em aparelhos de ar-condicionado, com valor médio atualizado em novembro de 2026 de R$2.177,98.
+* Processo nº 2023-W99L0: Prestação de serviços de agenciamento e fornecimento de passagens aéreas, com valor médio atualizado em novembro de 2026 de R$17.393,70.
+* Processo nº 2026-4C6C3: Prestação de serviços de gerenciamento do abastecimento de combustíveis, com valor médio atualizado em novembro de 2026 de R$9.723,08.
+* Processo nº 2024-1NJ7Q: Contratação de telefonia fixa, com valor médio atualizado em novembro de 2026 de R$656,75.
+* Processo nº 2023-Q0P9V: Contratação de guarda documental, com valor médio atualizado em novembro de 2026 de R$4.205,55.
+* Processo nº 2025-WXK6Q: Serviço de publicação de matéria legal em jornal de grande circulação, com valor médio atualizado em novembro de 2026 de R$319,60.
+* Processo nº 2025-99QRT: Locação de sistemas de geração distribuída (SGD) – energia fotovoltaica, no valor total de R$934.050,00 (projeto sem execução física e financeira até o momento).
+* Processo nº 2026-CJN90: Contratação de Almoxarifado Virtual (vigência de 23/09/2026 a 22/09/2029), no valor total de R$884.080,00.
+
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Para assegurar a continuidade e o aprimoramento da estrutura administrativa da SETADES, será necessário garantir a previsão orçamentária adequada para custear os reajustes anuais dos contratos de serviços contínuos, a exemplo de locação, condomínio, limpeza e fornecimento de energia elétrica, de modo a preservar as condições necessárias ao pleno funcionamento da Secretaria.
+
+Também será importante assegurar a manutenção de equipes técnicas qualificadas para o acompanhamento, a fiscalização e a renovação dos contratos administrativos, observados os prazos e requisitos legais, a fim de prevenir descontinuidades na prestação dos serviços. Adicionalmente, destaca-se a necessidade de concluir a implantação do projeto de geração de energia fotovoltaica (Processo nº 2025-99QRT), visando à modernização da infraestrutura da unidade e à redução dos custos operacionais a médio e longo prazo.
 
 <<<

@@ -9,7 +9,7 @@
 #   Alerts:    Sucesso #28A058 | Advertência #E2DD2D | Info #5081A0 | Erro #9C5C6A
 # =============================================================================
 
-extends: default
+extends: default-with-font-fallbacks
 
 font:
   catalog:
@@ -254,6 +254,15 @@ caption:
   font-color: #7B7B7A
   align: left
   margin-inside: 4
+
+# Notas de rodapé (renderizadas ao pé da página via scripts/rodape_por_pagina.rb)
+footnotes:
+  font-family: OpenSans
+  font-size: 8
+  font-color: #585857
+  line-height: 1.3
+  item-spacing: 3
+  margin-top: auto
 
 # Cabeçalho e Rodapé com Paginação SECOM-ES (p. 24: Marsala 1 #B16C73 / Cinza 1 #CFCFCF)
 header:

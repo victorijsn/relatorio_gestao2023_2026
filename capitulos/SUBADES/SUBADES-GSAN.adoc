@@ -7,62 +7,146 @@
 | *Subsecretaria* | Subsecretaria de Estado de Assistência e Desenvolvimento Social (SUBADES)
 | *Gerência ou setor* | Gerência de Segurança Alimentar e Nutricional (GSAN)
 | *Responsável* | Isadora Chagas Queiroz (Gerente)
-| *Contato* | _A preencher (e-mail institucional e telefone/ramal)_
+| *Contato* | isadora.chagas@setades.es.gov.br / Telefone: (27) 3636-6830
+
 |===
 
 '''
 
-== Ação 6863 - Segurança Alimentar e Nutricional (SAN)
+== Fortalecimento do Sistema de Segurança Segurança Alimentar e Nutricional - SISAN
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Implementar, coordenar e fortalecer os componentes do Sistema de Segurança Alimentar e Nutricional (SISAN), por meio de ações estaduais e municipais, incluindo o desenvolvimento das atividades da CAISAN e do CONSEA.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+* Adesão municipal ao SISAN: ampliação da articulação e do assessoramento aos municípios para adesão ao Sistema. O Espírito Santo conta atualmente com 25 municípios aderidos, conforme levantamento da GSAN. Até 2024, o Estado registrava seis municípios aderidos, quantitativo mantido desde 2014;
+* Conferência Estadual de Segurança Alimentar e Nutricional (2023): realização da etapa estadual, promovendo a participação social, o debate sobre a política de SAN e a construção de propostas para o fortalecimento do SISAN;
+* Seminário de Segurança Alimentar e Nutricional (2024): realização de espaço de formação, diálogo e articulação entre gestores públicos, conselhos e demais atores envolvidos na agenda de SAN;
+* Encontro SAN+2: realização de atividade voltada ao acompanhamento e à discussão dos avanços e desafios da política de Segurança Alimentar e Nutricional;
+* Planejamento estadual: elaboração do II Plano Estadual de Segurança Alimentar e Nutricional (II PLANSAN-ES), referente ao período de 2026–2027, estruturado em diretrizes, iniciativas, metas, indicadores e responsabilidades institucionais.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+* Expansão do SISAN: ampliação da adesão dos municípios capixabas, considerando que ainda há municípios sem adesão ao Sistema.
+* Fortalecimento institucional: apoio à estruturação e ao funcionamento efetivo das instâncias municipais de SAN, especialmente COMSEA, CAISAN e instrumentos de planejamento.
+* Articulação intersetorial: manutenção e fortalecimento da atuação integrada entre os órgãos estaduais e municipais e a participação da sociedade civil.
+* Capacidade técnica e operacional: disponibilidade de equipe técnica e recursos para assessoramento aos municípios, acompanhamento das ações e monitoramento da política estadual.
+* Planejamento e monitoramento: continuidade da implementação e do acompanhamento das metas e iniciativas previstas no II PLANSAN-ES.
+* Realização da VIII Conferência Estadual de SAN: previsão de recursos no PLOA 2027 para contratação dos serviços necessários à organização e realização da próxima Conferência Estadual de Segurança Alimentar e Nutricional.
 
 <<<
 
 == Programa Compra Direta de Alimentos (CDA)
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+O Programa Compra Direta de Alimentos (CDA), instituído pela Lei Estadual nº 11.505/2021, alterada pela Lei nº 11.879/2026 e regulamentado pelo Decreto nº 5.714-R/2024, integra a Política Estadual de Compras Institucionais da Agricultura Familiar. Tem como objetivo adquirir alimentos diretamente da agricultura familiar para doação simultânea a equipamentos e serviços do SUAS e de SAN, contribuindo para a garantia do DHAA e o enfrentamento da insegurança alimentar e nutricional, por meio da oferta de refeições e/ou cestas verdes.
+
+O Programa está presente em 73 dos 78 municípios capixabas e é executado, predominantemente, pelas Secretarias Municipais de Assistência Social ou órgãos equivalentes. A adesão ocorre por edital específico e é formalizada mediante Termo de Adesão, com vigência de cinco anos, prorrogável por igual período.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Em 2023, o Programa Compra Direta de Alimentos (CDA) passou a utilizar o Sistema de Gestão Informatizado SisCDA, desenvolvido a partir de projeto contemplado pelo Prêmio INOVES – Ciclo 2020. A implantação do sistema aprimorou a gestão e a operacionalização do Programa, possibilitando pagamentos diretos aos agricultores familiares pelo Estado e o registro, monitoramento e controle dos Planos de Trabalho, aquisições, doações, estoques e folhas de pagamento.
+
+A primeira comercialização no novo formato foi iniciada em 2024. Em dezembro de 2025, o CDA foi premiado na 1ª edição do Prêmio Brasil Sem Fome, promovido pelo Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), na categoria Boas Práticas de Combate à Fome e Promoção da Segurança Alimentar e Nutricional. Em 2026, o Programa conta com 66 municípios em execução.
+
+A seguir, apresentam-se os dados consolidados do Relatório de Execução do CDA, com os principais resultados e indicadores do período de 2023 a 2026.3.
+
+.Execução do programa CDA entre 2023 a 2026
+[cols="1,1,1,1,1,1"]
+|===
+|Itens apurados | Total geral |2023 |2024 |2025 |2026
+
+|Municípios aderidos
+|73
+|40
+|24
+|-
+|9
+
+|NF-e emitidas
+|8.238
+|-
+|1.373
+|3.176
+|3.689
+
+|Recursos pagos R$
+|17.710.214,67
+|-
+|3.131.276,46
+|6.658.035,69
+|7.920.902,52
+
+|Alimentos adquiridos (KG)
+|2.104.188,81
+|-
+|394.992,55
+|824.369,98
+|884.826,28
+
+|Unidades receptoras atendidas
+|396
+|-
+|127
+|130
+|139
+
+|===
+
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+* Infraestrutura tecnológica: acompanhamento do desenvolvimento do novo SisCDA pelo PRODEST, incluindo testes, validação de funcionalidades e migração de dados.
+* Suporte técnico: necessidade de profissionais especializados em Tecnologia da Informação para apoiar o desenvolvimento, a implantação e a manutenção dos sistemas.
+* Manutenção do sistema atual: continuidade dos serviços de manutenção corretiva, preventiva e evolutiva do SisCDA até a conclusão da transição, considerando o encerramento do contrato em 03/07/2027.
+* Equipe técnica: manutenção de equipe multidisciplinar, composta por profissionais das áreas de Nutrição, Serviço Social e Ciências Agrárias.
+* Pagamento aos agricultores familiares: serviço operacionalizado pelo Banestes, considerando o encerramento do contrato em 06/03/2029.
+* Recursos orçamentários: disponibilidade de recursos para manutenção da estrutura operacional, tecnológica e administrativa do Programa.
+* Governança: formalização da composição da Comissão Gestora do CDA, visando ao fortalecimento da gestão e do acompanhamento do Programa.
+
 
 <<<
 
 == Programa de Aquisição de Alimentos (PAA)
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+A iniciativa compreende a publicação de editais para adesão dos municípios capixabas ao Programa de Aquisição de Alimentos (PAA), na modalidade Compra com Doação Simultânea (CDS), por meio da cooperação entre o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) e a SETADES.
+
+A adesão municipal ocorre por meio de editais, conforme a disponibilidade orçamentária e as pactuações entre os governos Federal e Estadual. A execução é registrada e monitorada no Sistema de Informação e Gestão do PAA (SISPAA), plataforma do MDS. Nesse processo, a GSAN/SETADES atua na articulação com os municípios, na consolidação das propostas municipais e no cadastramento da proposta estadual no sistema.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+2023 – 2025 - Edital Estadual nº 001/2023
+
+Foi realizado processo de adesão e seleção de municípios capixabas para execução do PAA, na modalidade Compra com Doação Simultânea. O resultado oficial apresentou 22 municípios selecionados, além de municípios classificados como suplentes.
+
+* 22 municípios selecionados;
+* Cariacica, Cachoeiro de Itapemirim e Vitória: R$ 300 mil previstos para cada município;
+* Demais municípios selecionados: R$ 100 mil previstos para cada um;
+* R$ 2.877.306,69 disponibilizados no edital, incluindo reserva de R$ 77.306,69 para utilização emergencial ou suplementar;
+* Termo de adesão encerrado.
+
+2025 – 2026 - Edital Estadual nº 001/2025
+
+A SETADES publicou novo edital de adesão em novembro de 2025, estabelecendo a continuidade da cooperação com o MDS.
+
+* R$ 3.207.760,14 previstos para execução;
+* 10 municípios habilitados
+* Valor por município a ser executado durante a vigência do PAA: R$320.776,00 (trezentos e vinte mil, setecentos e setenta e seis reais).
+* 10 municípios selecionados e 9 executando o Programa PAA;
+* Previsão de execução por 12 meses após a validação da proposta, prorrogáveis por igual período;
+* Pagamento dos agricultores familiares diretamente pelo MDS;
+* Acompanhamento, monitoramento e prestação de contas coordenadas pela SETADES/GSAN.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+* Disponibilidade orçamentária: a continuidade e a ampliação do Programa dependem dos recursos financeiros disponibilizados pelo MDS.
+* Equipe técnica e gestão operacional: necessidade de profissional técnico exclusivo para a gestão do Programa, responsável pela articulação com os municípios, organização das propostas e acompanhamento da execução no SISPAA.
+* Adesão ao SISAN: a ampliação da participação dos municípios no PAA também depende da adesão ao Sistema Nacional de Segurança Alimentar e Nutricional (SISAN).
 
 <<<
 

@@ -82,6 +82,7 @@ if ($null -ne $AsciidoctorPdf) {
     }
 
     & $AsciidoctorPdf "index.adoc" `
+        -r "./scripts/rodape_por_pagina.rb" `
         -a pdf-theme="tema/setades-theme.yml" `
         -a pdf-fontsdir="tema/fonts" `
         -o $ArquivoSaida

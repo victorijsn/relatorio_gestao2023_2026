@@ -7,133 +7,139 @@
 | *Subsecretaria* | Subsecretaria de Estado de Assistência e Desenvolvimento Social (SUBADES)
 | *Gerência ou setor* | Gerência de Benefícios e Transferência de Renda (GBTR)
 | *Responsável* | Ricardo Azevedo Masruha (Gerente)
-| *Contato* | _A preencher (e-mail institucional e telefone/ramal)_
+| *Contato* | ricardo.masruha@setades.es.gov.br / Telefone: (27) 3636-6875
+
 |===
 
 '''
 
 == Programa Bolsa Capixaba
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Ricardo Azevedo Masruha (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Programa Estadual criado em 2011, de transferência direta de renda voltado à proteção de famílias em situação de pobreza e vulnerabilidade social.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+A GBTR acompanha a execução, realiza apoio técnico aos municípios, conduz estudos e propostas de reformulação do programa, com revisão dos critérios de elegibilidade, aprimoramento da focalização e atenção às famílias com crianças na primeira infância. O trabalho envolve análise de bases cadastrais, adequação normativa e planejamento operacional para a continuidade da concessão.
+
+O investimento acumulado nos últimos quatro anos supera R$44 milhões. A reformulação busca aumentar a efetividade do gasto e direcionar a proteção às famílias com maior vulnerabilidade.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+A implementação do novo modelo do Bolsa Capixaba constitui um dos principais desafios da Gerência, especialmente quanto à publicação dos novos instrumentos normativos, à operacionalização do novo sistema informatizado e à adequação dos procedimentos de seleção e concessão. Destaca-se, ainda, a necessidade de assegurar a disponibilidade e a qualidade das bases cadastrais, bem como a sustentabilidade orçamentária do programa.
 
 <<<
 
 == Programa Vale Gás Capixaba
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Ricardo Azevedo Masruha (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Instituído pela Lei Estadual nº 11.983/2023 e regulamentado pelo Decreto nº 5.591-R/2024, oferece transferência de R$100,00 a cada dois meses às famílias elegíveis, para apoiar o acesso ao gás de cozinha e contribuir para o enfrentamento da insegurança alimentar.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+A Gerência coordena a seleção de beneficiários, o processamento de informações e o acompanhamento das concessões e pagamentos junto ao agente operador e junto aos municípios. Em 2026, as mudanças na cobertura do Programa Federal Gás do Povo exigiram adequações na identificação das famílias elegíveis e no planejamento da emissão de novos cartões, incluindo providências para continuidade contratual.
+
+O programa, operacionalizado desde 2024, registra investimentos próximos de R$10 milhões. A atuação busca mitigar a insegurança alimentar.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+O principal desafio consiste na necessidade de adequação permanente do programa estadual às mudanças promovidas pelo Governo Federal, especialmente em relação à ampliação do Gás do Povo, que impacta diretamente a composição do público elegível. Também se destacam a necessidade de acesso tempestivo às bases de dados federais, a atualização dos procedimentos de seleção e a manutenção da capacidade contratual e orçamentária para emissão de cartões e atendimento de novos beneficiários.
 
 <<<
 
 == Cartão Reconstrução
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Ricardo Azevedo Masruha (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Criado em 2013, o Cartão Reconstrução é um benefício estadual emergencial de transferência direta de recursos para famílias de baixa renda afetadas por desastres, com apoio à reposição de bens essenciais.
+
+Desde sua criação, o mesmo vem passando por mudanças, e hoje conta com Sistema Operacional próprio, desenvolvido conjuntamente entre a GBTR e o Instituto de Tecnologia da Informação e Comunicação do Estado do Espírito Santo - PRODEST.
+
+Com o aumento e intensidade das chuvas sempre em determinados períodos do ano, foram criados ciclos que compreendem o período de 01 novembro a 30 de abril do ano subsequente. O valor previsto para cada família é de R$3.500,00 em parcela única, observados os requisitos legais.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+A GBTR coordena os fluxos operacionais em articulação com os municípios, acompanha os registros e informações encaminhadas, organiza o processamento das remessas e monitora os pagamentos, orientando os municípios  sobre elegibilidade, documentação e prazos.
+
+O investimento nos últimos quatro anos supera R$62 milhões. O programa fortalece a resposta socioassistencial a situações de emergência, com repasse direto às famílias atingidas.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Os principais desafios, estão relacionados à imprevisibilidade da ocorrência e da intensidade dos eventos climáticos, que podem elevar significativamente a demanda pelo benefício, exigindo planejamento orçamentário e capacidade de resposta rápida, exigindo a necessidade de constante aperfeiçoamento do sistema informatizado, a qualificação dos registros encaminhados pelos municípios e o fortalecimento dos mecanismos de controle e acompanhamento das concessões.
 
 <<<
 
 == Gestão e Monitoramento dos Benefícios Estaduais
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Ricardo Azevedo Masruha (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Conjunto de processos administrativos, técnicos e operacionais que sustentam a concessão regular e transparente dos benefícios estaduais sob responsabilidade da GBTR.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Inclui elaboração de manifestações técnicas, estudos de elegibilidade, revisão de normativos, acompanhamento contratual, conferência de informações, planejamento de recursos e monitoramento das operações de pagamento. A Gerência mantém articulação com Banestes, Prodest, SECONT, PGE, municípios e órgãos federais para aprimorar fluxos e controles.
+
+A atuação fortalece a governança, a rastreabilidade das decisões, a prevenção de inconsistências e a eficiência da aplicação dos recursos públicos. Indicadores operacionais e resultados quantitativos devem ser consolidados a partir dos registros da unidade.
+
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Entre os principais desafios destacam-se o aprimoramento da integração entre sistemas estaduais e federais, a disponibilidade de bases de dados atualizadas, o fortalecimento dos mecanismos de monitoramento e controle e a necessidade de constante adequação dos procedimentos às alterações normativas. Também se evidencia a importância de manter estrutura técnica e operacional compatível com a complexidade e o volume das atividades desenvolvidas pela Gerência.
 
 <<<
 
 == Coordenação Estadual do Cadastro Único e Programa Bolsa Família
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Ricardo Azevedo Masruha (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+As Coordenações Estaduais, integrantes da GBTR, apoiam a gestão descentralizada do Cadastro Único e do Programa Bolsa Família nos 78 municípios capixabas, promovendo qualificação técnica e articulação interfederativa.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Desenvolve orientações, capacitações, acompanhamento de procedimentos cadastrais e apoio à gestão de benefícios e condicionalidades. Em 2026, destacaram-se o Seminário Bolsa Família em Ação, em parceria com o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), e o Encontro Estadual de Vigilância Socioassistencial e Cadastro Único, além do assessoramento permanente às equipes municipais.
+
+As iniciativas contribuem para a qualificação das informações cadastrais, o fortalecimento das gestões municipais e o aprimoramento do acesso das famílias aos programas sociais.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Os principais desafios envolvem a necessidade de atualização permanente das equipes municipais diante das alterações nas normativas e nos sistemas federais, a melhoria contínua da qualidade das informações do Cadastro Único e o fortalecimento do acompanhamento das condicionalidades do Programa Bolsa Família. Insta frisar a necessidade de manter ações sistemáticas de capacitação e apoio técnico aos 78 municípios capixabas, considerando as diferentes capacidades operacionais das gestões locais.
 
 <<<
 
 == Benefícios Eventuais
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Ricardo Azevedo Masruha (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Provisões suplementares e provisórias do Sistema Único de Assistência Social (SUAS) para situações de nascimento, morte, vulnerabilidade temporária e calamidade pública, observadas a legislação e a regulamentação local.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+No âmbito da GBTR, a atuação compreende apoio técnico e orientação aos municípios sobre organização, regulamentação e oferta dos Benefícios Eventuais, com atenção aos critérios de concessão e à articulação com os serviços socioassistenciais.
+
+O apoio estadual contribui para a padronização de entendimentos, o fortalecimento da capacidade de resposta municipal e a proteção de famílias em situações emergenciais. O cofinanciamento estadual aos municípios, desde a pandemia, é de R$6.000.000,00, repassados fundo a fundo de acordo com o porte de cada município.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Os principais desafios consistem em assegurar a regularidade e a sustentabilidade do cofinanciamento estadual, fortalecer a capacidade técnica dos municípios, promover o aperfeiçoamento das regulamentações locais e aprimorar o acompanhamento da aplicação dos recursos transferidos e a articulação entre a concessão dos benefícios e os serviços socioassistenciais.
 
 <<<
 
 == Benefício de Prestação Continuada (BPC) e Programa BPC na Escola
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Ricardo Azevedo Masruha (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Benefício assistencial federal que assegura um salário mínimo mensal à pessoa idosa de 65 anos ou mais e à pessoa com deficiência, conforme os critérios legais. A concessão e operacionalização competem à esfera federal.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+A GBTR realiza articulação e apoio técnico às gestões municipais, disseminando orientações sobre acesso e manutenção do BPC, atualização do Cadastro Único e integração com a rede socioassistencial. Além de acompanhar e apoiar a implementação do Programa BPC na Escola, iniciativa intersetorial voltada à identificação e superação de barreiras ao acesso e à permanência na escola de crianças e adolescentes com deficiência beneficiários do BPC.
+
+Nesse âmbito, incentiva a articulação entre assistência social, educação, saúde e direitos humanos, bem como o acompanhamento das ações municipais e da aplicação dos instrumentos de identificação de barreiras.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Os principais desafios estão relacionados ao fortalecimento da articulação intersetorial entre assistência social, educação, saúde e direitos humanos, à ampliação da participação municipal e ao aprimoramento do acompanhamento das ações do Programa BPC na Escola. Destacam-se também a necessidade de atualização cadastral dos beneficiários, a qualificação das equipes municipais e o fortalecimento das estratégias de identificação e superação das barreiras que dificultam o acesso e a permanência escolar de crianças e adolescentes com deficiência.
 
 <<<

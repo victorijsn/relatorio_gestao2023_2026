@@ -6,26 +6,44 @@
 | Campo | Preenchimento
 | *Subsecretaria* | Subsecretaria de Estado para Assuntos Administrativos (SUBAAD)
 | *Gerência ou setor* | Gerência de Gestão de Convênios (GGCONV)
-| *Responsável* | Thiago Mendes dos Santos (Gerente de Gestão de Convênios)
-| *Contato* | _A preencher (e-mail institucional e telefone/ramal)_
+| *Responsável* | Thiago Mendes dos Santos (Gerente)
+| *Contato* | thiago.mendes@setades.es.gov.br / Telefone: (27) 3636-6804
 |===
 
 '''
 
 == Gestão de Convênios e Instrumentos de Parceria da SETADES
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Thiago Mendes dos Santos (Gerente de Gestão de Convênios)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+A Gerência de Gestão de Convênios (GGCONV) é responsável pela gestão administrativa dos instrumentos de parceria celebrados pela SETADES com municípios e Organizações da Sociedade Civil (OSCs), envolvendo a transferência de recursos públicos estaduais para execução de projetos e ações nas áreas de assistência social, trabalho e desenvolvimento social.
+
+A iniciativa compreende todo o ciclo de gestão das parcerias, desde a análise da documentação e dos planos de trabalho para formalização dos instrumentos até o acompanhamento da execução, análise das alterações, orientação aos parceiros e avaliação das prestações de contas.
+
+As atividades são desenvolvidas de forma contínua, abrangendo parcerias decorrentes de emendas parlamentares, editais de chamamento público e demais instrumentos celebrados pela Secretaria, em observância às atribuições estabelecidas no art. 2º do Decreto Estadual nº 4.114-R/2017 e à legislação aplicável.
+
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Entre as principais entregas realizadas, destacam-se a análise e formalização de convênios, termos de fomento e termos de colaboração; a instrução de processos relacionados a emendas parlamentares e editais de chamamento público; a análise de solicitações de prorrogação de vigência e de alterações dos planos de trabalho; a elaboração de termos aditivos e certidões de apostilamento; o acompanhamento da execução dos instrumentos; a orientação técnica aos parceiros; e a análise das prestações de contas, com emissão de manifestações técnico-financeiras e pareceres conclusivos.
+
+Também foram desenvolvidas atividades de organização e consolidação de informações gerenciais, padronização de procedimentos administrativos e atendimento às demandas dos órgãos de controle, buscando aprimorar os fluxos de trabalho, fortalecer os controles internos e conferir maior segurança à gestão das parcerias.
+
+Entre 2023 a 2026, conforme os dados consolidados da base de registros, foram contabilizados 572 instrumentos, entre convênios, termos de fomento e termos de colaboração, totalizando R$ 45.953.903,01 em valores registrados. Especificamente em 2026, foram identificados 133 registros com situação atual concluída, sendo 56 relacionados a emendas parlamentares e 77 a editais de seleção, que somam R$ 9.512.675,22.
+
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Os principais desafios para a continuidade e o aprimoramento das atividades da GGCONV estão relacionados à necessidade de fortalecimento da equipe técnica, considerando o volume crescente de instrumentos de parceria e a complexidade dos procedimentos de formalização, acompanhamento e prestação de contas.
+
+Destaca-se a importância de assegurar a continuidade do conhecimento técnico e dos fluxos administrativos já construídos pela Gerência.
+Atualmente, o setor não dispõe de servidores efetivos, o que representa um ponto de atenção para a preservação da memória institucional e a continuidade das atividades.
+É imprescindível, portanto, que haja servidores com conhecimento dos processos e das rotinas da Gerência para orientar e transmitir as informações necessárias aos profissionais que vierem a integrar a equipe, facilitando sua adaptação, evitando a perda de informações e reduzindo o risco de descontinuidade dos trabalhos já estruturados.
+
+Destaca-se também a necessidade de reduzir o passivo de prestações de contas pendentes de análise, ampliar a capacidade de emissão de pareceres conclusivos, aperfeiçoar os mecanismos de controle dos prazos e aprimorar as ferramentas tecnológicas utilizadas para acompanhamento e consolidação das informações.
+
+Outro desafio consiste em manter a capacitação permanente dos servidores e o aperfeiçoamento das orientações destinadas aos municípios e às organizações da sociedade civil, especialmente quanto às exigências legais e aos procedimentos de execução e prestação de contas.
+
+Por fim, é importante fortalecer a integração entre a GGCONV, os gestores e fiscais das parcerias e as demais unidades administrativas da SETADES, de modo a garantir maior eficiência no acompanhamento dos instrumentos, prevenir inconsistências na aplicação dos recursos e assegurar a adequada conclusão dos processos.
 
 <<<
