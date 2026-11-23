@@ -1,142 +1,252 @@
-= Gerência de Proteção Social Especial (GPSE)
+= GPSE – Gerência de Proteção Social Especial
 
 .Identificação da Unidade
 [cols="1,3", options="header"]
 |===
 | Campo | Preenchimento
-| *Subsecretaria* | Subsecretaria de Estado de Assistência e Desenvolvimento Social (SUBADES)
-| *Gerência ou setor* | Gerência de Proteção Social Especial (GPSE)
-| *Responsável* | Douglas Mothé Rossetto (Gerente)
-| *Contato* | gpse@setades.es.gov.br / Telefone: (27) 3636-6845
-
+| *Subsecretaria* | SUBADES – Subsecretaria de Estado de Assistência e Desenvolvimento Social
+| *Gerência ou setor* | GPSE – Gerência de Proteção Social Especial
+| *Responsável* | Douglas Mothé Rossetto
+| *Contato* | gpse@setades.es.gov.br Telefone: (27) 3636-6845
 |===
 
 '''
 
-== Cobertura dos CREAS e fortalecimento do PAEFI
+== Cobertura dos CREAS e Fortalecimento do PAEFI
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+A ação compreende o apoio à expansão e à manutenção da rede de CREAS, considerando sua função de referência para o atendimento especializado de famílias e indivíduos em situação de ameaça ou violação de direitos. A presença territorial da unidade permite organizar o acesso ao PAEFI e a articulação com outras ofertas de proteção.
+
+O trabalho estadual precisa acompanhar tanto a implantação como as condições de funcionamento. A continuidade da oferta depende de equipes, infraestrutura, organização dos atendimentos e capacidade de interlocução com os demais serviços e órgãos de defesa de direitos.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Em 2025, foi alcançada a cobertura de Centros de Referência Especializados de Assistência Social (CREAS) nos 78 municípios capixabas, assegurando a universalização da presença desse equipamento no território estadual. A entrega, anunciada oficialmente em novembro daquele ano, representa um marco para a expansão e a organização da Proteção Social Especial (PSE) no Espírito Santo. Em 2026, teve continuidade a agenda de apoio técnico e articulação com as coordenações municipais, conforme registrado na reunião da Região Macro Sul.
+
+A partir da consolidação dessa cobertura territorial, o desafio da gestão estadual consiste em assegurar a qualidade e a continuidade dos serviços ofertados, com atenção às condições de funcionamento das unidades, à composição e à qualificação das equipes técnicas e às possíveis barreiras de acesso aos serviços nos diferentes territórios municipais.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Assegurar a sustentação das unidades e a continuidade dos acompanhamentos, com atenção à rotatividade de profissionais, às áreas rurais e às localidades distantes das sedes. Também é necessário aperfeiçoar os registros para analisar a demanda e orientar o apoio técnico, distinguindo quantidade de unidades, cobertura municipal e famílias acompanhadas.
 
 <<<
 
-== Atenção à população em situação de rua e oferta de Centros POP
+== Atenção à População em Situação de Rua e Oferta de Centros POP
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+A ação articula o apoio ao Serviço Especializado em Abordagem Social, ao atendimento nos Centros POP e às ofertas de acolhimento. O objetivo é qualificar o acesso à proteção e a continuidade do acompanhamento, considerando que as necessidades dos usuários podem envolver vários serviços e municípios.
+
+A resposta territorial depende de fluxos com saúde, documentação civil, habitação e outras políticas. Para a gestão estadual, a articulação deve favorecer encaminhamentos com referência definida e reduzir interrupções no atendimento decorrentes da fragmentação da rede.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Em 2025, oferta de dois Centros POP em municípios de pequeno porte no Espírito Santo, correspondentes a 50% dos Centros POP existentes em municípios desse porte no país, conforme informação da gestão. O resultado destaca a presença da atenção especializada à população em situação de rua também nos municípios de menor porte;
+
+Realização do 1º Seminário Estadual de Direitos e Políticas para a População em Situação de Rua, registrado pela SETADES em 24 de março de 2026;
+
+Disponibilização de orientações específicas para Abordagem Social e Centro POP nas Notas Técnicas GPSE nº 004 e nº 005/2026.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Qualificar a relação entre abordagem, atendimento especializado e acolhimento, com responsabilidades e procedimentos de acompanhamento conhecidos pelas equipes. A atualização dos dados de funcionamento e atendimento deve apoiar decisões sobre expansão, evitando que o planejamento se restrinja à quantidade de equipamentos.
 
 <<<
 
-== Apoio técnico e assessoramento aos municípios
+== Educação Permanente: Apoio Técnico e Assessoramento aos Municípios na Gestão e Execução dos Serviços da Proteção Social Especial
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+O assessoramento estadual apoia os municípios na interpretação das referências técnicas, na organização das ofertas e na solução de dificuldades de execução. Reuniões, orientações individualizadas e atividades formativas permitem aproximar as diretrizes do SUAS das condições concretas das equipes e dos territórios.
+
+O conteúdo do apoio deve considerar questões recorrentes, como definição do público, composição e organização das equipes, acompanhamento familiar, elaboração de registros e articulação dos encaminhamentos. A análise das dúvidas municipais também subsidia a produção de materiais orientadores.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+No âmbito do assessoramento à Proteção Social Especial, foram realizadas reuniões trimestrais com coordenadores de CREAS, Centros POP e Serviços Especializados em Abordagem Social, organizada a programação de apoios técnicos sobre medidas socioeducativas, PETI e acolhimento, além de desenvolvidas ações de assessoramento técnico regionalizado nas macrorregiões Norte e Sul do Espírito Santo. Essas iniciativas fortaleceram a interlocução entre Estado e municípios, possibilitando a identificação de demandas, o alinhamento de orientações técnicas e o aprimoramento da organização dos serviços socioassistenciais.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Manter uma agenda regular e combinar atividades coletivas com suporte às situações que exigem maior aprofundamento. A continuidade depende de disponibilidade de equipe, condições para deslocamento e formas de acompanhar os encaminhamentos após os encontros. O planejamento das próximas atividades deve utilizar as demandas registradas e os resultados da validação da rede.
 
 <<<
 
-== Produção de orientações técnicas e materiais de apoio
+== Produção de Orientações Técnicas e Materiais de Apoio
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+A elaboração de documentos orientadores organiza referências para a gestão e a execução dos serviços. As orientações ajudam a esclarecer o objeto da PSE, as atribuições das equipes e as interfaces com outras políticas, oferecendo uma base comum para o diálogo entre Estado, municípios e órgãos de defesa de direitos.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+No período, destaca-se como resultado a publicação de cinco Notas Técnicas da Gerência de Proteção Social Especial (GPSE), em 2026, disponibilizadas no repositório oficial da SETADES, ampliando o conjunto de orientações técnicas de referência para os municípios. Os documentos abordam aspectos fundamentais da organização e execução da Proteção Social Especial, incluindo a natureza da política, os procedimentos para indicação de acolhimento, a relação com o Sistema de Justiça, a Abordagem Social e a oferta dos Centros POP. Soma-se a essas entregas a elaboração da Nota Técnica Conjunta SUBADES nº 001/2026, voltada à atuação em situações de calamidades e emergências.
+
+Como resultado, a SETADES fortaleceu a produção e a disseminação de referências técnicas para subsidiar a gestão municipal e orientar a atuação das equipes, contribuindo para maior alinhamento dos procedimentos e qualificação da oferta socioassistencial. Complementarmente, encontra-se em elaboração um material de perguntas e respostas sobre a média complexidade, construído a partir das dúvidas encaminhadas pelas equipes municipais, com o objetivo de sistematizar orientações práticas e responder às demandas identificadas no cotidiano dos serviços.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Assegurar revisão periódica dos materiais e sua utilização pelas equipes. É necessário acompanhar as dúvidas que persistem após a publicação, ajustar conteúdos quando houver mudanças nas referências e manter os documentos acessíveis. O assessoramento deve apoiar a aplicação das orientações em diferentes realidades municipais.
 
 <<<
 
-== Monitoramento e validação da rede de Proteção Social Especial
+== Monitoramento e Validação dos Serviços Socioassistenciais da Proteção Social Especial nos Municípios do Espírito Santo
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Em 2026, a GPSE realizou um processo de validação da rede socioassistencial de Proteção Social Especial, reunindo informações sobre as ofertas municipais, suas condições de funcionamento e as necessidades de adequação. Os resultados desse processo nortearão o monitoramento da rede em 2027, orientando as prioridades de acompanhamento e de apoio técnico aos municípios.
+
+A iniciativa tem como objetivo estruturar um processo de trabalho padronizado para a validação das provisões socioassistenciais da PSE, com definição de etapas, critérios, instrumentos de registro e procedimentos de análise e devolutiva às gestões municipais. Essa padronização busca conferir continuidade ao trabalho, consistência às informações e uniformidade aos procedimentos de validação, considerando as particularidades territoriais e as especificidades de cada oferta.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Entre 2024 e 2026, a SETADES avançou na estruturação e institucionalização do processo de validação da rede socioassistencial da Proteção Social Especial (PSE). Em 2024, foram aprimorados os procedimentos de validação e, em 2025, estabelecidas estratégias e instituído fluxo específico para viabilizar sua execução diante da abrangência territorial e da diversidade de serviços existentes nos municípios capixabas. Em 2026, foi realizado o processo de validação da rede, com elaboração de relatórios técnicos e termos de ciência municipais, formalizando os resultados e as recomendações direcionadas às gestões municipais.
+
+Como ganho institucional, a SETADES passou a dispor de um processo de trabalho mais estruturado e padronizado, com instrumentos e fluxos definidos para registrar, sistematizar e acompanhar as condições de funcionamento da rede socioassistencial. Essa estrutura amplia a capacidade de planejamento, monitoramento e assessoramento técnico do Estado, além de estabelecer uma base documental para acompanhar a implementação das recomendações pelas gestões municipais. Em 2027, os resultados da validação subsidiarão o monitoramento da rede, permitindo identificar avanços, fragilidades e necessidades de apoio técnico, com maior continuidade e consistência na atuação estadual.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Consolidar e institucionalizar um processo de trabalho interno para a validação das provisões socioassistenciais, com etapas claras e objetivas, critérios e instrumentos padronizados, fundamentados nos parâmetros técnicos nacionais do SUAS. A adoção de uma referência comum de análise, associada a um olhar individualizado para a realidade de cada município, suas demandas e condições de oferta, possibilita estabelecer metas voltadas à cobertura com qualidade das provisões socioassistenciais. Esse processo deve manter as informações atualizadas, distinguir unidades cadastradas, serviços em funcionamento e capacidade instalada, além de assegurar o acompanhamento das recomendações. Dessa forma, a validação norteará o monitoramento de 2027 e permitirá pactuar metas compatíveis com as necessidades de cada território, orientando tanto a ampliação do acesso quanto a qualificação das ofertas existentes.
 
 <<<
 
-== Incentivo à implantação de Centros Dia e Residências Inclusivas
+== Incentivo à Implantação de Centros Dia e Residências Inclusivas
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+A atuação técnica da GPSE subsidia a organização do cofinanciamento e a expansão de ofertas prioritárias, em articulação com as áreas responsáveis pela execução orçamentária e financeira. O incentivo à implantação de serviços deve ser acompanhado de condições para sua continuidade, incluindo equipe, imóvel adequado e custeio regular.
+
+Em 2026, o repasse extraordinário para Centros Dia e Residências Inclusivas compuseram essa agenda. As duas modalidades respondem a necessidades distintas: o Centro Dia integra a Média Complexidade e apoia o cuidado e a proteção no convívio familiar; a Residência Inclusiva integra o acolhimento institucional de Alta Complexidade.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Estruturação do incentivo de R$500 mil por município, com previsão de atendimento a 15 municípios e montante programado de R$7,5 milhões.
+
+Previsão de dez Centros Dia e cinco Residências Inclusivas, com distribuição específica entre custeio e investimento para cada modalidade.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Acompanhar adesões, transferências e etapas de implantação, articulando o cumprimento das exigências administrativas à preparação das equipes e à definição dos fluxos de acesso. O resultado final a monitorar é o serviço em funcionamento, com atendimento adequado e condições para continuidade após o incentivo inicial.
 
 <<<
 
-== Qualificação da infraestrutura das unidades da PSE
+== Qualificação da Infraestrutura das Unidades da PSE
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+A qualificação da infraestrutura física e dos equipamentos da rede socioassistencial constitui condição importante para a organização e a qualidade da oferta dos serviços da Proteção Social Especial (PSE). Nesse contexto, a GPSE atua na análise e na manifestação técnica sobre as necessidades dos equipamentos de sua área de abrangência, contribuindo para as iniciativas institucionais de construção, reforma, ampliação e aquisição de mobiliário e equipamentos.
+
+No âmbito dessas iniciativas, a atuação ocorre de forma articulada com as unidades responsáveis pela gestão administrativa dos projetos e com a engenharia, de modo a assegurar que as características dos espaços físicos e os equipamentos previstos sejam compatíveis com as finalidades dos serviços, as atividades desenvolvidas e as necessidades dos públicos atendidos.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Inclusão de 33 Centros de Referência Especializados de Assistência Social (CREAS) na iniciativa de aquisição de mobiliário e equipamentos, com referência de investimento de R$150 mil por unidade.
+
+Contemplação de CREAS, Centros de Referência Especializados para População em Situação de Rua (Centros POP) e unidades de acolhimento nas iniciativas institucionais de qualificação da infraestrutura da rede socioassistencial.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Assegurar que os investimentos realizados se traduzam em condições efetivas de funcionamento e qualificação dos serviços. Para isso, será necessário acompanhar a execução e a incorporação dos equipamentos à rede socioassistencial, considerando a compatibilidade entre os cronogramas de obras, a disponibilização de mobiliário, a composição das equipes e a previsão de custeio. Também será importante observar requisitos de acessibilidade, segurança, manutenção e adequação dos ambientes às finalidades de cada serviço e às necessidades dos usuários e trabalhadores.
 
 <<<
 
-== Acompanhamento das Residências Inclusivas e estudos de organização consorciada
+== Gestão e Acompanhamento das Residências Inclusivas e Estudos de Organização Consorciada
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+A ação compreende o acompanhamento da oferta de acolhimento em Residências Inclusivas para pessoas com deficiência que não dispõem de condições para autossustentabilidade ou de retaguarda familiar e comunitária, bem como a produção de subsídios técnicos para o planejamento e a organização territorial dessa modalidade de serviço. Inclui o acompanhamento das parcerias estabelecidas, a articulação intersetorial e a avaliação de alternativas para ampliar a capacidade de organização da oferta, considerando as particularidades dos municípios e a possibilidade de arranjos consorciados.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Manutenção de sete Residências Inclusivas vinculadas à parceria com o Instituto de Gestão Social (IGES), por meio do Termo de Colaboração nº 001/2023, com investimento anual aproximado de R$9 milhões, conforme registrado no Caderno de Resultados.
+
+As sete unidades atendem exclusivamente pessoas remanescentes da antiga Unidade de Atendimento ao Deficiente (UNAED), caracterizando uma oferta específica e de portas fechadas. Essa particularidade é relevante para a análise da cobertura estadual, uma vez que as unidades não representam vagas de acesso regular destinadas ao atendimento de novas demandas da população. A manutenção da parceria assegura a continuidade do acolhimento desse público e da proteção socioassistencial já estabelecida.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Os principais desafios consistem em aprimorar os mecanismos de acompanhamento e avaliação da parceria, assegurar a continuidade e a qualidade do acolhimento e fortalecer a articulação intersetorial, especialmente com a política de saúde, considerando as necessidades específicas dos residentes. Também se destaca a necessidade de avançar nos estudos sobre alternativas de organização territorial e oferta regionalizada ou consorciada de Residências Inclusivas, de modo a subsidiar o planejamento estadual e a ampliação do acesso a essa modalidade de acolhimento.
+
+<<<
+
+== Programa de Erradicação do Trabalho Infantil
+
+=== 1. Descrição
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+A agenda do PETI articula prevenção, identificação, proteção e monitoramento das situações de trabalho infantil. No apoio aos municípios, a GPSE busca qualificar a compreensão das atribuições da assistência social e sua relação com a educação, a saúde, a fiscalização do trabalho e os órgãos de defesa de direitos.
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+Ações de Combate ao Trabalho Infantil no Carnaval dos anos de 2022, 2023 e 2024.
+
+Ações com os municípios litorâneos para conscientização da população entre os meses de novembro a fevereiro, período de maior movimentação turística.
+
+Inserção do PETI na programação estadual de apoio técnico.
+
+Na data de corte, a oficina permanece programada. Seu acompanhamento deverá registrar os municípios participantes, as dúvidas apresentadas e os encaminhamentos que possam orientar novas atividades de apoio técnico.
+
+Para a gestão, o valor da agenda está em fortalecer a resposta territorial: a identificação precisa ser acompanhada de providências e de acesso à rede, considerando as condições de vida das famílias. Campanhas e atividades formativas devem integrar um planejamento continuado e ter seus desdobramentos acompanhados.
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+Enfrentar a naturalização e a subnotificação do trabalho infantil, ampliar a articulação entre serviços e fortalecer os registros. O monitoramento deve permitir verificar o acompanhamento das crianças, adolescentes e famílias e a continuidade da proteção, observadas as atribuições de cada órgão.
+
+<<<
+
+== Preparação para Calamidades e Elaboração do Primeiro Diagnóstico Estadual
+
+=== 1. Descrição
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+A atuação da GPSE em calamidades e emergências compreende a preparação da rede socioassistencial, a organização de referências técnicas e a articulação para a proteção das pessoas atingidas.
+
+A produção de informações estaduais permite conhecer diferenças entre municípios e orientar o apoio técnico. Essa base é particularmente relevante para definir prioridades de preparação, identificar dificuldades na utilização dos planos de contingência e fortalecer a articulação com Defesa Civil, habitação, saúde e Defensoria Pública.
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+* Elaboração do 1º Diagnóstico Estadual de Calamidades e Emergências no SUAS, lançado em novembro de 2026.
+* Participação das 78 gestões municipais no levantamento conjunto da SETADES e da Defensoria Pública do Estado do Espírito Santo, com formulário de 23 perguntas e coleta entre junho e julho de 2026.
+* Disponibilização de orientação técnica estadual sobre planejamento e organização das ofertas socioassistenciais em situações de emergência e calamidade pública.
+* Acordo de Cooperação entre SETADES e Defensoria Pública do Estado do Espirito Santo destinado a pactuar metas durante o ano de 2026 a 2028 referentes a ações de preparação a situações de calamidades e emergências.
+
+.Principais resultados do levantamento
+[cols="2,1,1"]
+|===
+|Indicador declarado pelas gestões |Municípios |Percentual
+
+|Participação no levantamento
+|78 de 78
+|100,0%
+
+|Participação da assistência social na elaboração do plano de contingência
+|60
+|76,9%
+
+|Utilização do plano como referência de trabalho da equipe
+|45
+|57,7%
+
+|Ausência de estimativa do investimento municipal ou da informação
+|45
+|57,7%
+
+|Participação do SUAS em comitê ou conselho relacionado a desastres
+|35
+|44,9%
+
+|Políticas, planos ou programas de resiliência e adaptação com participação da assistência social
+|26
+|33,3%
+|===
+[.fonte]
+Fonte: Diagnóstico Estadual SUAS e Desastres 2026. Base: 78 municípios; dados autodeclarados.
+
+A abrangência do levantamento oferece uma referência comum para pactuar prioridades e acompanhar mudanças. O contraste entre 60 municípios que participaram da elaboração dos planos e 45 que os utilizam no trabalho das equipes indica a necessidade de transformar o planejamento em rotinas, contatos e procedimentos conhecidos pelos trabalhadores.
+
+A dificuldade de 45 municípios para informar os investimentos reforça a importância de organizar os registros de despesas e recursos mobilizados. A presença de iniciativas de resiliência com participação da assistência social em 26 municípios sinaliza espaço para ampliar a preparação da rede e a continuidade da proteção em situações de deslocamento de famílias ou interrupção de serviços.
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+Produzir devolutivas aos municípios, priorizar o apoio técnico a partir das lacunas identificadas e acompanhar a incorporação das recomendações ao planejamento local. É necessário fortalecer a participação do SUAS nas instâncias intersetoriais, preparar as equipes e definir fluxos para a resposta e o período posterior aos eventos.
+
+A atualização periódica do diagnóstico permitirá verificar a evolução das capacidades municipais. Esse acompanhamento deve incluir a utilização dos planos, a disponibilidade de referências para acolhida, os registros financeiros e a articulação para acesso à moradia e à defesa de direitos, considerando as responsabilidades de cada política.
 
 <<<
