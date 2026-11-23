@@ -283,4 +283,5 @@ Contratação do Banco do Estado do Espírito Santo – BANESTES – para atuar 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
 Continuidade do serviço de pagamento, atualmente operacionalizado pelo Banestes, considerando o encerramento do contrato em 06/03/2029 e a necessidade de avaliação quanto à sua renovação ou à contratação de nova solução.
+
 <<<
