@@ -14,9 +14,7 @@
 
 == FOCO - Programa de Formação dos Gestores e Profissionais da Assistência Social, Saúde e Educação
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Cláudia Pessin Machado Vieira#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -32,9 +30,7 @@ _Texto pendente de envio pela área técnica._
 
 == BPIC - Boas Práticas pela Primeira Infância
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Cláudia Pessin Machado Vieira#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -50,9 +46,7 @@ _Texto pendente de envio pela área técnica._
 
 == Observatório Capixaba da Primeira Infância
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Cláudia Pessin Machado Vieira#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -68,9 +62,7 @@ _Texto pendente de envio pela área técnica._
 
 == Concurso Primeira Infância com Arte - PIARTE
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Cláudia Pessin Machado Vieira#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -86,9 +78,7 @@ _Texto pendente de envio pela área técnica._
 
 == Especialização lato sensu "Intersetorialidade para o Desenvolvimento Integral da Primeira Infância"
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Elaine de Oliveira Leppaus#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
