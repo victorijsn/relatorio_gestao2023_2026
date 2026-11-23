@@ -14,9 +14,7 @@
 
 == Diagnóstico Socioterritorial, enquanto projeto
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -32,9 +30,7 @@ _Texto pendente de envio pela área técnica._
 
 == Vigilância em Rede, enquanto ação
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -50,9 +46,7 @@ _Texto pendente de envio pela área técnica._
 
 == Monitoramento do RMA, enquanto processo
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -68,9 +62,7 @@ _Texto pendente de envio pela área técnica._
 
 == Monitoramento dos indicadores socioassistenciais, enquanto processo
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -86,9 +78,7 @@ _Texto pendente de envio pela área técnica._
 
 == Apoio técnico para acesso aos sistemas, enquanto processo
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -104,9 +94,7 @@ _Texto pendente de envio pela área técnica._
 
 == Orientação técnica aos municípios, enquanto processo
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -122,9 +110,7 @@ _Texto pendente de envio pela área técnica._
 
 == Produção de boletins internos, enquanto processo
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -140,9 +126,7 @@ _Texto pendente de envio pela área técnica._
 
 == Organização e atualização do CADUAS, enquanto processo
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
