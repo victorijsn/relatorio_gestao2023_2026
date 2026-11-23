@@ -108,16 +108,26 @@ def parse_docx_modelo(caminho_docx: str) -> Dict:
                     if chave.lower().startswith(k.lower()[:10]):
                         identificacao[k] = valor
 
-    acoes: List[Dict[str, str]] = []
-    acao_atual: Optional[Dict[str, str]] = None
+    acoes: List[Dict[str, object]] = []
+    acao_atual: Optional[Dict[str, object]] = None
     secao_atual: Optional[str] = None
     aguardando_titulo = False
 
-    for p in paragrafos:
-        if any(p.startswith(frase) for frase in FRASES_IGNORAR):
-            continue
+    re_desc = re.compile(r"^1\.\s*Descri[çc][ãa]o(\s+resumida)?\b", flags=re.IGNORECASE)
+    re_entr = re.compile(r"^2\.\s*Entregas\s+realizadas", flags=re.IGNORECASE)
+    re_desa = re.compile(r"^3\.\s*Desafios\s+para\s+a\s+continuidade", flags=re.IGNORECASE)
+    re_parte1 = re.compile(r"^Parte\s+1\s*:", flags=re.IGNORECASE)
+    re_parte2 = re.compile(r"^Parte\s+2\s*:", flags=re.IGNORECASE)
 
-        if re.match(r"^Parte\s+1\s*:", p, flags=re.IGNORECASE):
+    paragrafos_filtrados = [
+        p
+        for p in paragrafos
+        if not any(p.startswith(frase) for frase in FRASES_IGNORAR)
+        and p.lower() != "nome da ação, projeto ou processo"
+    ]
+
+    for idx, p in enumerate(paragrafos_filtrados):
+        if re_parte1.match(p):
             if acao_atual and acao_atual.get("titulo"):
                 acoes.append(acao_atual)
             acao_atual = {
@@ -130,29 +140,43 @@ def parse_docx_modelo(caminho_docx: str) -> Dict:
             aguardando_titulo = True
             continue
 
-        if re.match(r"^Parte\s+2\s*:", p, flags=re.IGNORECASE):
+        if re_parte2.match(p):
             # Caso o documento tenha Parte 2 (Compêndio de atos), encerra a leitura da Parte 1
             break
 
-        if re.match(r"^1\.\s*Descri[çc][ãa]o\s+resumida", p, flags=re.IGNORECASE):
+        if re_desc.match(p):
             secao_atual = "descricao"
             aguardando_titulo = False
             continue
 
-        if re.match(r"^2\.\s*Entregas\s+realizadas", p, flags=re.IGNORECASE):
+        if re_entr.match(p):
             secao_atual = "entregas"
             aguardando_titulo = False
             continue
 
-        if re.match(r"^3\.\s*Desafios\s+para\s+a\s+continuidade", p, flags=re.IGNORECASE):
+        if re_desa.match(p):
             secao_atual = "desafios"
             aguardando_titulo = False
             continue
 
+        # Detecta formato revisado (sem cabeçalho "Parte 1:"): título seguido diretamente por "1. Descrição..."
+        proximo = paragrafos_filtrados[idx + 1] if idx + 1 < len(paragrafos_filtrados) else ""
+        if proximo and re_desc.match(proximo):
+            if acao_atual and acao_atual.get("titulo"):
+                acoes.append(acao_atual)
+            acao_atual = {
+                "titulo": p,
+                "descricao": [],
+                "entregas": [],
+                "desafios": [],
+            }
+            secao_atual = None
+            aguardando_titulo = False
+            continue
+
         if aguardando_titulo and acao_atual is not None:
-            if p.lower() != "nome da ação, projeto ou processo":
-                acao_atual["titulo"] = p
-                aguardando_titulo = False
+            acao_atual["titulo"] = p
+            aguardando_titulo = False
             continue
 
         if acao_atual is not None and secao_atual in ("descricao", "entregas", "desafios"):
@@ -218,15 +242,16 @@ def gerar_adoc_unidade(dados: Dict, nome_padrao_unidade: str) -> str:
             [
                 f"== {titulo_acao}",
                 "",
-                f"[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: {responsavel}#",
-                "",
-                "=== 1. Descrição resumida",
+                "=== 1. Descrição",
+                "// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).",
                 desc,
                 "",
                 "=== 2. Entregas realizadas no mandato (2023 a 2026)",
+                "// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.",
                 entr,
                 "",
                 "=== 3. Desafios para a continuidade da ação",
+                "// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.",
                 desa,
                 "",
                 "<<<",
