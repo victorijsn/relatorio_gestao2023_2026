@@ -15,9 +15,7 @@
 
 == Cobertura dos CREAS e fortalecimento do PAEFI
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Douglas Mothé Rossetto (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -33,9 +31,7 @@ _Texto pendente de envio pela área técnica._
 
 == Atenção à população em situação de rua e oferta de Centros POP
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Douglas Mothé Rossetto (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -51,9 +47,7 @@ _Texto pendente de envio pela área técnica._
 
 == Apoio técnico e assessoramento aos municípios
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Douglas Mothé Rossetto (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -69,9 +63,7 @@ _Texto pendente de envio pela área técnica._
 
 == Produção de orientações técnicas e materiais de apoio
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Douglas Mothé Rossetto (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -87,9 +79,7 @@ _Texto pendente de envio pela área técnica._
 
 == Monitoramento e validação da rede de Proteção Social Especial
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Douglas Mothé Rossetto (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -105,9 +95,7 @@ _Texto pendente de envio pela área técnica._
 
 == Incentivo à implantação de Centros Dia e Residências Inclusivas
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Douglas Mothé Rossetto (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -123,9 +111,7 @@ _Texto pendente de envio pela área técnica._
 
 == Qualificação da infraestrutura das unidades da PSE
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Douglas Mothé Rossetto (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -141,9 +127,7 @@ _Texto pendente de envio pela área técnica._
 
 == Acompanhamento das Residências Inclusivas e estudos de organização consorciada
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Douglas Mothé Rossetto (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
