@@ -14,9 +14,7 @@
 
 == Cofinanciamento Estadual dos Benefícios Eventuais e Serviços Socioassistenciais Continuados
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -32,9 +30,7 @@ _Texto pendente de envio pela área técnica._
 
 == Aprimoramento da Gestão e apoio técnico aos municípios
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -50,9 +46,7 @@ _Texto pendente de envio pela área técnica._
 
 == Fortalecimento das instâncias de pactuação e controle social (CIB/ES e CEAS/ES)
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -68,9 +62,7 @@ _Texto pendente de envio pela área técnica._
 
 == Rede SUAS
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -86,9 +78,7 @@ _Texto pendente de envio pela área técnica._
 
 == Gestão do Trabalho e Educação Permanente do SUAS
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -104,9 +94,7 @@ _Texto pendente de envio pela área técnica._
 
 == Revista do SUAS ES
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Quécia Cristina De Abreu (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
