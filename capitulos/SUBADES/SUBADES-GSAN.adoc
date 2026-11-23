@@ -152,72 +152,135 @@ A SETADES publicou novo edital de adesão em novembro de 2025, estabelecendo a c
 
 == Projeto Cozinhas Solidárias
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+O Projeto Cozinhas Solidárias apoia OSCs na implantação, estruturação e manutenção de cozinhas comunitárias de base popular e não estatal, por meio de repasse de recursos financeiros via Termos de Colaboração, conforme o Decreto Federal nº 11.937/2024. A iniciativa visa ao combate à fome, à garantia do DHAA e à promoção da SAN no Espírito Santo.
+
+O projeto contempla municípios da Região Metropolitana e territórios atendidos pelo Programa Estado Presente, estabelecendo funcionamento mínimo de cinco dias por semana, com oferta de 120 refeições diárias, sendo pelo menos 10% destinadas à população em situação de rua. Os recursos são destinados à aquisição de materiais de consumo e permanentes, conforme o Edital nº 001/2024, o Manual Técnico e os instrumentos de parceria.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+O Edital de Seleção nº 001/2024 foi publicado em 16 de agosto de 2024, resultando na seleção de três OSCs, conforme Portaria nº 135-S, de 18 de dezembro de 2024.
+
+Posteriormente, foram celebrados dois Termos de Colaboração: o nº 001/2025, em 06/08/2025, com a OSC Alef Bet, no valor de R$ 1.399.949,58, com vigência até 31/07/2026; e o nº 002/2025, em 24/11/2025, com a Associação Vianense de Karatê (AVK), no valor de R$ 1.399.999,09, com vigência até 30/11/2027.
+
+.Execução do Projeto Cozinhas Solidárias
+[cols="1,1,1"]
+|===
+| Itens apurados |Associação Vianense de Karatê |Alef Bet
+
+3+<|*Execução financeira*
+
+|Valor previsto no instrumento
+|R$ 1.399.999,09
+|R$ 1.399.949,58
+
+|Valor repassado
+|R$ 630.000,00
+|R$ 1.399.949,58
+
+|Saldo disponível
+|R$ 769.999,09
+|R$ 0,00
+
+|Situação da prestação de contas
+|Parcial
+|Parcial
+
+3+<|*Execução física*
+
+|Período Avaliado
+|31/03/2026 a 31/07/2026
+|17/11/2025 a 31/07/2026
+
+|Refeições ofertadas
+|14.400
+|26.945
+
+|Pessoas atendidas
+|128/dia
+|150/dia
+
+|Dias de funcionamento
+|5 dias/semana
+|5 dias/semana
+
+|===
+
+Permanece em tramitação o processo nº 2025-3JX2R, referente à Associação Grupo Orgulho, Liberdade e Dignidade (GOLD), selecionada no Edital de 2024 do Projeto Cozinhas Solidárias. Até o momento, a formalização da parceria não foi concluída em razão de pendências e divergências na documentação apresentada.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Execução orçamentária: operacionalização dos recursos do FUNCOP já garantidos para 2027, destinados à celebração de mais três parcerias.
+
+Equipe técnica: disponibilidade de profissional nutricionista para acompanhamento técnico e monitoramento da execução das cozinhas solidárias.
+
+Gestão das parcerias: atualização dos gestores titular e suplente responsáveis pelo acompanhamento dos Termos de Colaboração vigentes ou instituição da Comissão Gestora, visando o monitoramento das parcerias.
 
 <<<
 
 == Formação Continuada em Segurança Alimentar e Nutricional
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+O Projeto Formação Continuada em Segurança Alimentar e Nutricional tem como objetivo ampliar a capacitação de atores sociais de diferentes regiões do Espírito Santo, promovendo a disseminação de conhecimentos sobre a Política de Segurança Alimentar e Nutricional, com otimização dos recursos e ampliação do alcance das ações formativas.
+
+A iniciativa é executada em parceria com a Escola de Serviço Público do Espírito Santo (ESESP), responsável pela oferta dos cursos de formação continuada.  A execução das ações é formalizada por meio de Termo de Cooperação Técnico-Financeira entre a SETADES e a ESESP, cabendo à Escola a oferta dos cursos ao público definido pela Secretaria.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Entre 2023 e 2026, foram ofertados três cursos de formação continuada: “A Política e o Sistema de Segurança Alimentar e Nutricional”, “Educação Alimentar e Nutricional” e “O Programa CDA-ES: da Teoria à Prática no Sistema”.
+
+A execução das ações foi formalizada por meio dos seguintes instrumentos:
+
+* Termo de Cooperação Técnica nº 001/2023 (Processo nº 2023-3DF2R), com vigência de maio de 2023 a maio de 2025.
+* Termo de Cooperação Técnica nº 002/2025 (Processo nº 2025-T139M), com vigência de abril de 2025 a dezembro de 2026.
+
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+* Formalização da parceria: celebração de novo instrumento de cooperação técnica entre a SETADES e a ESESP para continuidade das ações formativas.
+* Corpo docente: contratação de profissional qualificado para ministrar os cursos previstos.
+
 
 <<<
 
 == Manutenção Corretiva, Preventiva e Evolutiva do Sistema SisCDA (Contrato nº 2025.000022.47101.01 – Form's Informática LTDA)
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Contratação de empresa especializada para prestação de serviços contínuos de manutenção corretiva, preventiva e evolutiva do Sistema de Gestão Informatizado do Programa Compra Direta de Alimentos (SisCDA), incluindo suporte técnico, monitoramento e atualizações. A iniciativa visa assegurar o funcionamento, a estabilidade e a adequação tecnológica do sistema às necessidades operacionais do Programa, utilizado pela GSAN/SETADES e pelos municípios participantes.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+* Suporte técnico: atendimento às demandas operacionais e resolução de falhas identificadas durante a utilização do sistema.
+* Monitoramento: acompanhamento do funcionamento da plataforma, com identificação e correção de inconsistências.
+* Atualizações: implementação de ajustes e melhorias nas funcionalidades, conforme as necessidades da gestão estadual e municipal do Programa.
+* Continuidade operacional: suporte à utilização do sistema para registro, acompanhamento e controle dos Planos de Trabalho, aquisições, doações, estoques e pagamentos aos agricultores familiares.
+
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+* Transição tecnológica: acompanhamento do desenvolvimento e da implantação do novo SisCDA pelo PRODEST, incluindo testes, validação das funcionalidades e migração dos dados.
+* Continuidade da manutenção: necessidade de manutenção e suporte técnico do sistema atual durante o período de transição, considerando o encerramento do contrato em 03/07/2027.
+* Suporte especializado: disponibilidade de profissionais de Tecnologia da Informação para acompanhamento técnico, resolução de inconsistências e apoio à implantação do novo sistema.
 
 <<<
 
 == Execução Operacional do Pagamento aos Agricultores Beneficiados do Programa CDA (Contrato nº 2024.000004.47101.01 – BANESTES)
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Isadora Chagas Queiroz (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Contratação do Banco do Estado do Espírito Santo – BANESTES – para atuar como agente operador dos pagamentos aos agricultores do Programa Compra Direta de Alimentos - CDA, conforme estabelecido pelo artigo 13-A da Lei nº 11.879, de 14 de agosto de 2023, compreendendo as especificações apresentadas neste projeto básico.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+* Recebimento, processamento e retorno do arquivo de cadastro bancário e abertura de conta de pagamento.
+* Emissão do cartão magnético bancário para os agricultores do Programa CDA.
+* Recebimento, processamento e retorno do arquivo de crédito bancário e disponibilização dos valores em conta bancária .
+* Disponibilização de saque avulso.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
-
+Continuidade do serviço de pagamento, atualmente operacionalizado pelo Banestes, considerando o encerramento do contrato em 06/03/2029 e a necessidade de avaliação quanto à sua renovação ou à contratação de nova solução.
 <<<
