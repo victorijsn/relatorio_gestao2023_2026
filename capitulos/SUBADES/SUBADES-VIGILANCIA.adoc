@@ -1,157 +1,139 @@
-= Vigilância Socioassistencial
+= Coordenação Estadual de Vigilância Socioassistencial
 
 .Identificação da Unidade
 [cols="1,3", options="header"]
 |===
 | Campo | Preenchimento
-| *Subsecretaria* | Subsecretaria de Estado de Assistência e Desenvolvimento Social (SUBADES)
-| *Gerência ou setor* | Vigilância Socioassistencial
-| *Responsável* | Rafael Duarte Oliveira (Coordenador)
-| *Contato* | _A preencher (e-mail institucional e telefone/ramal)_
+| *Subsecretaria* | SUBADES
+| *Gerência ou setor* | Coordenação Estadual de Vigilância Socioassistencial
+| *Responsável* | Rafael Duarte Oliveira – Coordenador
+| *Contato* | vigilancia@setades.es.gov.br Telefone: (27) 3636-6850
 |===
 
 '''
 
-== Diagnóstico Socioterritorial, enquanto projeto
+== Apuração da Rede Socioassistencial
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+A apuração da rede socioassistencial consiste em um processo anual de levantamento, mapeamento, conferência, validação e consolidação de informações referentes à oferta dos serviços socioassistenciais nos 78 municípios do Espírito Santo, abrangendo os equipamentos da Proteção Social Básica e da Proteção Social Especial.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+A principal entrega da apuração da rede socioassistencial consiste na elaboração anual de planilhas consolidadas, contendo o mapeamento dos equipamentos e serviços socioassistenciais dos municípios capixabas, bem como os respectivos resultados da avaliação e validação técnica. As planilhas resultantes desse trabalho são incorporadas à base de dados da SETADES, contribuindo para a manutenção e atualização do histórico da composição da rede socioassistencial estadual. Dessa forma, a gestão estadual passa a dispor de informações sistematizadas sobre a distribuição e a situação das ofertas socioassistenciais nos 78 municípios capixabas, qualificando o acompanhamento da rede e subsidiando o planejamento da política de assistência social, especialmente a definição do cofinanciamento estadual para o exercício seguinte. Além das planilhas consolidadas, foi elaborado relatório técnico detalhando as etapas da apuração, as observações identificadas e recomendações para a realização de edições futuras.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+No âmbito operacional, destaca-se a dependência da articulação entre a Vigilância Socioassistencial e as gerências responsáveis pela Proteção Social Básica e Especial (GPSB e GPSE), uma vez que a conclusão da apuração está condicionada à análise e à emissão de pareceres técnicos pelas respectivas áreas. A disponibilidade das equipes e a priorização dessa demanda em meio às demais atribuições das gerências podem impactar os prazos e o andamento do trabalho. Em relação aos recursos humanos, a Vigilância Socioassistencial conta com apenas um profissional, que acumula a condução da apuração da rede com as demais atribuições da coordenação. Essa concentração de responsabilidades representa um desafio para a continuidade, o acompanhamento e o aprimoramento das entregas. Outro aspecto relevante refere-se à ausência de um fluxo de trabalho formalmente mapeado e documentado, que faz com que parte significativa do conhecimento necessário à execução da atividade permaneça concentrada nos profissionais envolvidos. Essa característica aumenta a vulnerabilidade do trabalho diante de mudanças nas equipes, especialmente em situações de alta rotatividade ou recomposição de pessoal, dificultando a transferência de conhecimento e a continuidade das atividades.
 
 <<<
 
-== Vigilância em Rede, enquanto ação
+== Monitoramento Mensal do Registro Mensal de Atendimentos (RMA) dos Municípios
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+O monitoramento mensal do Registro Mensal de Atendimentos (RMA) consiste no acompanhamento dos dados registrados pelos equipamentos socioassistenciais dos 78 municípios capixabas, com o objetivo de identificar padrões, variações e comportamentos atípicos na oferta dos serviços. Para isso, utiliza metodologia estatística baseada na mediana e no desvio absoluto médio, permitindo identificar alterações nos registros e subsidiar as Gerências de Proteção Social Básica e Especial no planejamento de estratégias de acompanhamento e apoio técnico aos municípios, com base em evidências.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Entre as principais entregas, destaca-se a elaboração de três planilhas de monitoramento do RMA, específicas para CRAS, CREAS e Centros POP. Os instrumentos permitem acompanhar os indicadores mensalmente, com possibilidade de consulta individualizada por município e análise comparativa entre períodos e territórios.
+
+As planilhas são disponibilizadas à gestão estadual e atualizadas mensalmente, conforme a disponibilidade do sistema RMA, incorporando procedimentos estatísticos para identificação de padrões e variações nos registros e subsidiando análises territorializadas e a tomada de decisão pelas áreas técnicas.
+
+Também foram formalizados os procedimentos de acompanhamento do preenchimento do RMA, por meio da Norma de Procedimento NP SETADES 015. O fluxo contempla o tratamento e a visualização dos dados, a identificação de unidades com registros pendentes, a comunicação aos municípios e o encaminhamento das situações às áreas técnicas responsáveis pelo apoio aos equipamentos.
+
+Como produto do monitoramento, são elaborados boletins internos que sistematizam os principais resultados das análises, destacando variações relevantes e situações que demandam atenção da gestão estadual, contribuindo para o acompanhamento da rede socioassistencial pelas áreas técnicas da SETADES.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Os principais desafios estão relacionados à limitação do quadro de pessoal da Vigilância Socioassistencial, atualmente composto por apenas um profissional, que acumula o monitoramento do RMA com as demais atribuições da coordenação. Essa condição pode comprometer a regularidade e o aprofundamento das análises. Soma-se a isso a dependência da disponibilidade do sistema RMA, cuja instabilidade ou indisponibilidade interfere na atualização das planilhas e na continuidade do acompanhamento. Por fim, a manutenção e o aprimoramento dos instrumentos exigem conhecimentos técnicos específicos, especialmente em fórmulas e procedimentos estatísticos. A concentração desse conhecimento em um único profissional representa um risco à transferência da metodologia e à continuidade do monitoramento em situações de mudança ou recomposição da equipe.
 
 <<<
 
-== Monitoramento do RMA, enquanto processo
+== Apoio Técnico para Acesso e Utilização dos Sistemas de Informação do SUAS
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+O processo consiste na organização e no acompanhamento dos acessos aos sistemas de informação da política de assistência social, abrangendo a atualização de cadastros de profissionais, ativação e inativação de perfis, orientações sobre procedimentos de acesso e utilização das plataformas, além do encaminhamento de intercorrências técnicas ao Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - MDS. O atendimento ocorre de forma contínua, conforme as solicitações e as necessidades identificadas pela Vigilância Socioassistencial no acompanhamento dos sistemas.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Ao longo do período, foram prestados atendimentos e orientações técnicas a diferentes municípios capixabas e às equipes da gestão estadual, conforme as demandas relacionadas ao acesso e à utilização dos sistemas de informação do SUAS. Os atendimentos ocorreram por e-mail e telefone, contemplando procedimentos de cadastro, concessão e alteração de perfis de acesso, recuperação de acessos e esclarecimento de dúvidas operacionais. O suporte abrangeu diferentes sistemas, como SAA, CADSUAS, SISC, SUASWEB, RMA e BPC na Escola. Em 2024, foram registradas demandas que chegaram a ultrapassar 30 ligações telefônicas por semana, demonstrando a intensidade das solicitações direcionadas à Vigilância Socioassistencial. Também foram realizadas articulações com o MDS para encaminhamento e resolução de intercorrências técnicas que dependiam de atuação federal, além de consultas e extrações de informações nos sistemas para subsidiar o acompanhamento de adesões, manifestações de aceite e outras demandas da gestão estadual.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Elevada rotatividade dos profissionais nas equipes municipais de assistência social, que resulta na necessidade frequente de atualização de cadastros, concessão de novos acessos e orientações sobre a utilização dos sistemas. A ausência de processos estruturados de gestão do conhecimento e a insuficiência de capacitação dos profissionais que assumem essas atribuições contribuem para a recorrência das solicitações de suporte à Vigilância Socioassistencial, mantendo elevada a demanda por atendimento. No âmbito tecnológico, destaca-se a instabilidade e indisponibilidade dos sistemas de informação, que pode comprometer o acesso dos municípios, a atualização dos registros e a continuidade das atividades de gestão e monitoramento. Reitera-se a limitação do quadro de pessoal da Vigilância Socioassistencial, atualmente composto por apenas um profissional.
 
 <<<
 
-== Monitoramento dos indicadores socioassistenciais, enquanto processo
+== Atualização Cadastral da Gestão Estadual no CADSUAS
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Consiste na manutenção dos registros institucionais e dos dados dos profissionais vinculados à gestão estadual do SUAS no Cadastro Nacional do SUAS (CADSUAS), assegurando a correspondência entre as informações cadastradas e a composição atual da equipe da SETADES. O procedimento é realizado mensalmente, com base nas movimentações funcionais informadas pelo setor de Recursos Humanos.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Foi mantida a rotina mensal de atualização cadastral, sob responsabilidade da Vigilância Socioassistencial, conforme fluxo formalizado pela Norma de Procedimento NP SETADES 008, elaborada em 2024. O procedimento prevê o envio de solicitação padronizada à Gerência de Recursos Humanos (GRH), no início de cada mês, para obtenção da relação de servidores e estagiários nomeados e exonerados no mês anterior. A partir dessas informações, são realizadas as inclusões, exclusões e demais alterações necessárias no CADSUAS. A planilha encaminhada pelo RH é arquivada como registro e documentação do procedimento.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+A continuidade do processo depende da regularidade no fornecimento das informações pelo setor de Recursos Humanos e da disponibilidade do sistema CADSUAS. Eventuais atrasos no compartilhamento das movimentações funcionais ou instabilidades na plataforma podem comprometer a atualização tempestiva dos registros. Nesse sentido, é importante preservar o fluxo de comunicação entre as áreas e a periodicidade do procedimento.
 
 <<<
 
-== Apoio técnico para acesso aos sistemas, enquanto processo
+== Orientação Técnica aos Municípios no Âmbito da Vigilância Socioassistencial
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Consiste na oferta contínua de orientação e apoio técnico às gestões e equipes municipais de assistência social, com foco na qualificação da Vigilância Socioassistencial e dos processos de gestão da informação. Abrange esclarecimentos sobre indicadores, registros, sistemas e instrumentos de gestão, interpretação de dados e organização dos serviços socioassistenciais, incluindo demandas que requerem articulação com outras áreas técnicas da SETADES. As atividades são realizadas conforme as solicitações dos municípios, necessidades identificadas e agendas institucionais, contemplando os 78 municípios capixabas.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Foram realizadas orientações técnicas por meio de atendimentos individualizados, encontros coletivos e participação em eventos presenciais, contemplando diferentes demandas das equipes municipais. Entre os temas abordados, destacam-se o preenchimento e a qualificação dos registros do RMA, os indicadores socioassistenciais, o BPC, o Programa Bolsa Família, o Cadastro Único, o Prontuário SUAS e as atribuições da Vigilância Socioassistencial.
+
+Como exemplos de atividades, destacam-se os esclarecimentos sobre o registro de atendimentos coletivos no RMA; a realização de encontro com o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - MDS e equipes municipais dos CRAS para discussão de dificuldades no preenchimento do sistema; e a participação no Seminário Municipal do Cadastro Único de Cachoeiro de Itapemirim, com apresentação sobre gestão da informação, qualificação dos registros e cruzamento de bases de dados como subsídios à leitura da realidade socioterritorial e ao planejamento das políticas públicas.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+O principal desafio está na articulação entre as áreas técnicas da SETADES, uma vez que parte das demandas municipais envolve assuntos que extrapolam as atribuições da Vigilância Socioassistencial. A realização de orientações mais abrangentes e resolutivas depende, portanto, da disponibilidade e da atuação integrada das gerências responsáveis. O fortalecimento dos fluxos de comunicação e do planejamento conjunto é fundamental para ampliar a capacidade de resposta às necessidades dos municípios.
 
 <<<
 
-== Orientação técnica aos municípios, enquanto processo
+== Vigilância em Rede
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Iniciativa de educação permanente e articulação com os municípios capixabas, desenvolvida por meio de encontros temáticos voltados ao fortalecimento da Vigilância Socioassistencial. A ação busca qualificar as equipes municipais para o uso de informações e instrumentos de gestão do SUAS, contribuindo para o diagnóstico socioterritorial, o planejamento e o aprimoramento da política de assistência social.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Entre 2025 e 2026, foram realizados seis encontros, abordando temas como a função da Vigilância Socioassistencial, a apuração dos serviços ofertados pela rede, o preenchimento do Registro Mensal de Atendimentos (RMA), o uso de dados do Cadastro Único e de outras bases para elaboração de diagnósticos socioterritoriais, o Censo SUAS e a implantação do novo Prontuário SUAS para os CRAS.
+
+Os encontros reuniram representantes da gestão estadual, do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) e das equipes municipais, promovendo espaços de atualização técnica, troca de experiências e articulação institucional. Destaca-se, ainda, a aproximação entre as áreas de Vigilância Socioassistencial e Cadastro Único, favorecendo a integração de informações para a análise das realidades territoriais.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+A continuidade da iniciativa depende da articulação entre as áreas técnicas da SETADES, da disponibilidade dos profissionais envolvidos e, conforme a temática, da participação de instituições externas, como o MDS. Outro aspecto importante é a disponibilidade de infraestrutura e recursos orçamentários para a realização de encontros presenciais, que favorecem a interação e a troca de experiências entre as equipes municipais. A manutenção de um calendário periódico e de condições operacionais adequadas é fundamental para assegurar a regularidade das atividades.
 
 <<<
 
-== Produção de boletins internos, enquanto processo
+== Diagnóstico Socioterritorial do Espírito Santo
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Estudo técnico que reúne e analisa informações sobre a realidade socioterritorial do Espírito Santo, com a finalidade de produzir conhecimento e subsidiar o planejamento, o acompanhamento e o aprimoramento da política estadual de assistência social. Destina-se às áreas técnicas e à gestão estadual, como instrumento de apoio à análise da realidade socioassistencial e à tomada de decisões.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Foi elaborado o Diagnóstico Socioterritorial do Espírito Santo, documento que sistematiza informações sobre as características territoriais do estado, o Cadastro Único, o Programa Bolsa Família, a pobreza e a rede socioassistencial. O estudo incorpora dados de diferentes fontes, incluindo o Censo SUAS 2024, o Registro Mensal de Atendimentos (RMA) e informações sobre o cofinanciamento estadual, contemplando análises sobre a gestão, a oferta dos serviços e os indicadores de desenvolvimento das unidades socioassistenciais.
+
+A elaboração possibilitou integrar diferentes bases de dados e fontes de informação em um único instrumento de referência para a gestão estadual, ampliando as possibilidades de análise da realidade socioassistencial e subsidiando o planejamento e a tomada de decisões.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Os principais desafios enfrentados foram a ausência de um escopo e de um processo de trabalho previamente definido. Inicialmente concebido como uma sistematização pontual de informações para apresentação às áreas técnicas, o diagnóstico teve seu conteúdo ampliado ao longo da elaboração, com a incorporação de novos temas e demandas. Esse movimento exigiu revisões metodológicas e adaptações nas ferramentas e nos formatos de apresentação, ocasionando retrabalho e ampliando a complexidade da execução.
 
-<<<
-
-== Organização e atualização do CADUAS, enquanto processo
-
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Rafael Duarte Oliveira (Coordenador)#
-
-=== 1. Descrição resumida
-// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
-
-=== 2. Entregas realizadas no mandato (2023 a 2026)
-// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
-
-=== 3. Desafios para a continuidade da ação
-// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Para as próximas edições, recomenda-se definir previamente os objetivos, o escopo, os conteúdos, as fontes de dados, as ferramentas e a metodologia de elaboração, estabelecendo um fluxo de trabalho que confira maior previsibilidade ao processo. Permanece também como pendência a conclusão da publicação institucional do documento, cuja versão final está disponível na intranet.
 
 <<<

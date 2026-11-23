@@ -148,6 +148,12 @@ role:
     font-style: bold
     font-color: #7B7B7A
     text-transform: uppercase
+  fonte:
+    font-family: OpenSans
+    font-size: 8
+    font-style: italic
+    font-color: #7B7B7A
+    text-align: left
 
 # Sumário (TOC)
 toc:

@@ -22,7 +22,9 @@ NS = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
 MAPA_UNIDADES: List[Tuple[List[str], str, str]] = [
     (["GGCONV", "CONVENIO", "CONVÊNIO"], "SUBAAD", "SUBAAD-GGCONV.adoc"),
     (["GADM", "SUBAAD - GA", "GERENCIA ADMINISTRATIVA", "GERÊNCIA ADMINISTRATIVA"], "SUBAAD", "SUBAAD-GADM.adoc"),
-    (["GCAM", "SUBAPI", "CAPACITACAO", "CAPACITAÇÃO", "PRIMEIRA INFANCIA", "PRIMEIRA INFÂNCIA"], "SUBAPI", "SUBAPI-GCAM.adoc"),
+    (["SUBAPI - GABINETE", "SUBAPI-GABINETE"], "SUBAPI", "SUBAPI-GABINETE.adoc"),
+    (["SUBADES - GABINETE", "SUBADES-GABINETE"], "SUBADES", "SUBADES-GABINETE.adoc"),
+    (["GCAM", "CAPACITACAO", "CAPACITAÇÃO", "PRIMEIRA INFANCIA", "PRIMEIRA INFÂNCIA"], "SUBAPI", "SUBAPI-GCAM.adoc"),
     (["GPSB", "PROTECAO SOCIAL BASICA", "PROTEÇÃO SOCIAL BÁSICA"], "SUBADES", "SUBADES-GPSB.adoc"),
     (["GPSE", "PROTECAO SOCIAL ESPECIAL", "PROTEÇÃO SOCIAL ESPECIAL"], "SUBADES", "SUBADES-GPSE.adoc"),
     (["GBTR", "BENEFICIOS", "BENEFÍCIOS", "TRANSFERENCIA DE RENDA", "TRANSFERÊNCIA DE RENDA"], "SUBADES", "SUBADES-GBTR.adoc"),
@@ -108,16 +110,35 @@ def parse_docx_modelo(caminho_docx: str) -> Dict:
                     if chave.lower().startswith(k.lower()[:10]):
                         identificacao[k] = valor
 
-    acoes: List[Dict[str, str]] = []
-    acao_atual: Optional[Dict[str, str]] = None
+    acoes: List[Dict[str, object]] = []
+    acao_atual: Optional[Dict[str, object]] = None
     secao_atual: Optional[str] = None
     aguardando_titulo = False
 
-    for p in paragrafos:
-        if any(p.startswith(frase) for frase in FRASES_IGNORAR):
-            continue
+    re_desc = re.compile(
+        r"^(?:1\s*[\.\-\)]\s*)?descri[çc][ãa]o(?:\s+resumida)?\s*:?\s*$",
+        flags=re.IGNORECASE,
+    )
+    re_entr = re.compile(
+        r"^(?:2\s*[\.\-\)]\s*)?entregas(?:\s+(?:realizadas(?:\s+no\s+mandato)?|e\s+desenvolvimento(?:\s+no\s+per[íi]odo)?)(?:\s*\([^)]*\))?)?\s*:?\s*$",
+        flags=re.IGNORECASE,
+    )
+    re_desa = re.compile(
+        r"^(?:3\s*[\.\-\)]\s*)?desafios(?:\s+para\s+a\s+continuidade(?:\s+da\s+a[çc][ãa]o)?)?\s*:?\s*$",
+        flags=re.IGNORECASE,
+    )
+    re_parte1 = re.compile(r"^Parte\s+1\s*:", flags=re.IGNORECASE)
+    re_parte2 = re.compile(r"^Parte\s+2\s*:", flags=re.IGNORECASE)
 
-        if re.match(r"^Parte\s+1\s*:", p, flags=re.IGNORECASE):
+    paragrafos_filtrados = [
+        p
+        for p in paragrafos
+        if not any(p.startswith(frase) for frase in FRASES_IGNORAR)
+        and p.lower() != "nome da ação, projeto ou processo"
+    ]
+
+    for idx, p in enumerate(paragrafos_filtrados):
+        if re_parte1.match(p):
             if acao_atual and acao_atual.get("titulo"):
                 acoes.append(acao_atual)
             acao_atual = {
@@ -130,29 +151,43 @@ def parse_docx_modelo(caminho_docx: str) -> Dict:
             aguardando_titulo = True
             continue
 
-        if re.match(r"^Parte\s+2\s*:", p, flags=re.IGNORECASE):
+        if re_parte2.match(p):
             # Caso o documento tenha Parte 2 (Compêndio de atos), encerra a leitura da Parte 1
             break
 
-        if re.match(r"^1\.\s*Descri[çc][ãa]o\s+resumida", p, flags=re.IGNORECASE):
+        if re_desc.match(p):
             secao_atual = "descricao"
             aguardando_titulo = False
             continue
 
-        if re.match(r"^2\.\s*Entregas\s+realizadas", p, flags=re.IGNORECASE):
+        if re_entr.match(p):
             secao_atual = "entregas"
             aguardando_titulo = False
             continue
 
-        if re.match(r"^3\.\s*Desafios\s+para\s+a\s+continuidade", p, flags=re.IGNORECASE):
+        if re_desa.match(p):
             secao_atual = "desafios"
             aguardando_titulo = False
             continue
 
+        # Detecta formato revisado (sem cabeçalho "Parte 1:"): título seguido diretamente por "1. Descrição..."
+        proximo = paragrafos_filtrados[idx + 1] if idx + 1 < len(paragrafos_filtrados) else ""
+        if proximo and re_desc.match(proximo):
+            if acao_atual and acao_atual.get("titulo"):
+                acoes.append(acao_atual)
+            acao_atual = {
+                "titulo": p,
+                "descricao": [],
+                "entregas": [],
+                "desafios": [],
+            }
+            secao_atual = None
+            aguardando_titulo = False
+            continue
+
         if aguardando_titulo and acao_atual is not None:
-            if p.lower() != "nome da ação, projeto ou processo":
-                acao_atual["titulo"] = p
-                aguardando_titulo = False
+            acao_atual["titulo"] = p
+            aguardando_titulo = False
             continue
 
         if acao_atual is not None and secao_atual in ("descricao", "entregas", "desafios"):
@@ -218,15 +253,16 @@ def gerar_adoc_unidade(dados: Dict, nome_padrao_unidade: str) -> str:
             [
                 f"== {titulo_acao}",
                 "",
-                f"[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: {responsavel}#",
-                "",
-                "=== 1. Descrição resumida",
+                "=== 1. Descrição",
+                "// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).",
                 desc,
                 "",
                 "=== 2. Entregas realizadas no mandato (2023 a 2026)",
+                "// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.",
                 entr,
                 "",
                 "=== 3. Desafios para a continuidade da ação",
+                "// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.",
                 desa,
                 "",
                 "<<<",
@@ -237,7 +273,11 @@ def gerar_adoc_unidade(dados: Dict, nome_padrao_unidade: str) -> str:
     return "\n".join(linhas)
 
 
-def processar_pasta(base_dir: str, arquivo_especifico: Optional[str] = None) -> int:
+def processar_pasta(
+    base_dir: str,
+    arquivo_especifico: Optional[str] = None,
+    sobrescrever: bool = False,
+) -> int:
     pasta_entrada = os.path.join(base_dir, "Textos - áreas")
     if arquivo_especifico:
         arquivos = [arquivo_especifico]
@@ -270,14 +310,24 @@ def processar_pasta(base_dir: str, arquivo_especifico: Optional[str] = None) -> 
             caminho_saida = os.path.join(base_dir, "capitulos", "EXTRAS", f"{slug}.adoc")
 
         if not dados["acoes"]:
-            print(f"[AVISO] '{nome_arq}' não possui fichas preenchidas na Parte 1; mantendo template atual.")
+            print(f"[AVISO] '{nome_arq}' não possui fichas preenchidas na Parte 1; nenhuma alteração feita.")
             continue
 
+        ja_existe = os.path.exists(caminho_saida)
+        if ja_existe and not sobrescrever:
+            print(
+                f"[PULADO] '{nome_arq}' -> '{caminho_saida}' já existe "
+                "(mantido sem alterações; use --sobrescrever para substituir)."
+            )
+            continue
+
+        os.makedirs(os.path.dirname(caminho_saida), exist_ok=True)
         conteudo_adoc = gerar_adoc_unidade(dados, os.path.splitext(nome_arq)[0])
         with open(caminho_saida, "w", encoding="utf-8") as f:
             f.write(conteudo_adoc)
         convertidos += 1
-        print(f"[OK] '{nome_arq}' ({len(dados['acoes'])} ações) -> '{caminho_saida}'")
+        acao_log = "SOBRESCRITO" if ja_existe else "CRIADO"
+        print(f"[{acao_log}] '{nome_arq}' ({len(dados['acoes'])} ações) -> '{caminho_saida}'")
 
     return convertidos
 
@@ -285,7 +335,12 @@ def processar_pasta(base_dir: str, arquivo_especifico: Optional[str] = None) -> 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Converte arquivos .docx das áreas para .adoc")
     parser.add_argument("--arquivo", help="Caminho para um arquivo .docx específico", default=None)
+    parser.add_argument(
+        "--sobrescrever",
+        action="store_true",
+        help="Sobrescreve o arquivo .adoc de destino caso ele já exista",
+    )
     args = parser.parse_args()
 
     raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    processar_pasta(raiz, args.arquivo)
+    processar_pasta(raiz, args.arquivo, sobrescrever=args.sobrescrever)

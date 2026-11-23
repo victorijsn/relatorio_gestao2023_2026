@@ -1,0 +1,103 @@
+= Gabinete SUBADES
+
+.Identificação da Unidade
+[cols="1,3", options="header"]
+|===
+| Campo | Preenchimento
+| *Subsecretaria* | SUBADES – Subsecretaria de Estado de Assistência e Desenvolvimento Social
+| *Gerência ou setor* | Gabinete SUBADES
+| *Responsável* | Juliane de Araújo Barroso (Assessora Técnica)
+| *Contato* | juliane.barroso@setades.es.gov.br Telefone: (27) 3636-6867
+|===
+
+'''
+
+== Comissão Temporária de Aperfeiçoamento do Programa Estadual de Superação da Pobreza Extrema - Programa Incluir 2.0
+
+=== 1. Descrição
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+A Comissão Temporária de Aperfeiçoamento do Programa Estadual de Superação da Pobreza Extrema - Programa INCLUIR 2.0, criada em 23 de outubro de 2026, através da Portaria nº 095-S, tem finalidade coordenar e articular o planejamento de estratégias e ações voltadas ao aprimoramento do Programa. Vale ressaltar que a instituição da comissão decorre a partir do documento “Avaliação Executiva do Programa da Pobreza Extrema (INCLUIR)” elaborado pelo Tribunal de Contas do Estado do Espírito Santo - TCCES.
+
+Sua composição conta com representantes da própria SETADES, estando vinculadas à Subsecretaria de Assistência e Desenvolvimento Social – SUBADES e ao Núcleo de Avaliação e Gestão da Informação - NAGI. A referida Comissão se reúne quinzenalmente e terá duração inicial de 12 meses, podendo ser prorrogável.
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+Realização de reuniões internas de alinhamento;
+
+Realização de reunião com Instituto Jones dos Santos Neves (IJSN) para estabelecimento de parceria, conforme orientação do TCEES;
+
+Elaboração de minutas.
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+Manutenção da Comissão;
+
+Instituição do Comitê Gestor Intersetorial do Programa Estadual de Superação da Pobreza Extrema - Programa INCLUIR 2.0;
+
+Definição dos Indicadores de Pobreza Multidimensional.
+
+<<<
+
+== SETADES nas discussões climáticas
+
+=== 1. Descrição
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+Em 2024 municípios do Sul do Estado, com destaque para Mimoso do Sul, foram fortemente afetados por fortes chuvas O resultado foi devastador, ocasionando inclusive óbitos. Outras situações evidenciaram a necessidade da secretaria se debruçar de maneira mais específica sobre as questões relacionadas ao clima, sobretudo situações de emergência e calamidades.
+
+A SETADES que já participava das discussões sobre o clima no Comitês Estratégicos do Programa Capixaba de Mudanças Climáticas – PCMC, em 2025 foi criado um grupo de trabalho para elaborar o Plano de Contingência próprio. Foram realizadas 10 reuniões com frequência semanal e o Plano publicado em abril de 2026. No mesmo período foi assinado um Acordo de Cooperação com a Defensoria Pública do Estado do Espírito Santo – DPES, que implicou também na aplicação de um diagnóstico voltado à temática em tela, com cem por cento de adesão dos municípios.
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+Participação na elaboração do Plano de Adaptação às Mudanças Climáticas do Espírito Santo;
+
+Participação nos Comitês Estratégicos do Programa Capixaba de Mudanças Climáticas – PCMC, Comitê de Desenvolvimento Regional coordenado pela Secretaria Estadual de Meio Ambiente e Recursos Hídricos – SEAMA;
+
+Participação na Força de Proteção do Sistema Único de Assistência Social – FORSUAS;
+
+Criação do Grupo de Trabalho Intersetorial SETADES: Situações de Emergências e Calamidades no Espírito Santo, instituído por meio da Portaria nº 081-S, de 22 de agosto de 2025;
+
+Publicação do Plano de Contingência da Secretaria de Estado de Trabalho, Assistência e Desenvolvimento Social para o Enfrentamento de Situações Emergenciais no Espírito Santo;
+
+Nota técnica
+
+Aplicação de formulário diagnóstico de situações emergenciais junto aos municípios.
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+Revisão do Plano de Contingência SETADES;
+
+Manutenção da execução do Termo de Cooperação 002/2026 com a Defensoria Pública do Estado do Espírito Santo (DPES);
+
+Detalhamento dos protocolos
+
+Realização dos Workshops intersetoriais focados no Super El Nino com destaque a benefícios eventuais e abrigamento.
+
+<<<
+
+== Acompanhamento do Acordo Judicial para Reparação Integral e Definitiva Relativa ao Rompimento da Barragem de Fundão/MG - Novo Acordo Rio Doce
+
+=== 1. Descrição
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+Em 25 de outubro de 2024 foi assinado o Acordo Judicial para Reparação Integral e Definitiva relativa ao rompimento da Barragem de Fundão/MG, homologado pelo Supremo Tribunal Federal em 06 de novembro do mesmo ano, relativo aos danos ocasionados pelo rompimento da barragem de Fundão/MG, ocorrido em novembro de 2015. O referido Acordo estabeleceu o pagamento total de R$100 bilhões destinado a novos recursos a serem pagos aos entes públicos que aderiram à pactuação.
+
+Em dezembro/2024 o Governo do Estado criou a Secretaria de Recuperação do Rio Doce – SERD, com a finalidade de apoiar a execução, coordenar, orientar, monitorar, fiscalizar o planejamento e a execução dos projetos e ações ligadas à reparação, restauração, compensação dos danos socioambientais e socioeconômicos para fins de cumprimento das obrigações assumidas pelo Estado nos limites do Acordo Judicial, do qual é parte. Para a Secretaria de Estado de Trabalho, Assistência e Desenvolvimento Social – SETADES coube, diretamente, o valor total de R$32.000.000,00, em um horizonte de vinte anos, através de repasses anuais, para utilização em ações de Fortalecimento do Sistema Único de Assistência Social (SUAS). A abrangência contempla 11 municípios, sendo eles: Anchieta, Aracruz, Baixo Guandu, Colatina, Conceição da Barra, Fundão, Linhares, Marilândia, São Mateus, Serra, Sooretama.
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+Realização de “Diálogo Instrucional ProfortSUAS – Rio Doce e Plano Municipal de Assistência Social” com os 11 municípios;
+
+Envio de documento subsídios para elaboração dos Planos Municipais de Assistência Social para os municípios;
+
+Assinatura dos Termos de Cooperação 008/2025, 009/2025, 010/2025 e 006/2026 com a SERD para construção ou reforma de Centros de Referência de Assistência Social para Indígenas e Quilombolas;
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+Acompanhamento intensivo junto aos municípios para entrega das obras previstas nos Termos de Cooperação;
+
+Criação de Núcleo de acompanhamento do Novo Acordo – ProfortSUAS na SETADES;
+
+Visita em campo nos 11 municípios impactados;
+
+Realização de planejamento a longo prazo com os municípios, focados na reparação justa e integral dos territórios.
+
+<<<

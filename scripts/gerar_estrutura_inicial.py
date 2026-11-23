@@ -222,7 +222,7 @@ O presente **Relatório de Gestão da Secretaria de Estado de Trabalho, Assistê
 
 Estruturado por Subsecretaria e Gerência/Unidade Técnica, cada relato segue o modelo institucional padronizado em três eixos:
 
-* **1. Descrição resumida**: caracterização da iniciativa, público atendido e periodicidade;
+* **1. Descrição**: caracterização da iniciativa, público atendido e periodicidade;
 * **2. Entregas realizadas no mandato (2023 a 2026)**: resultados alcançados, metas cumpridas, volume de atendimentos, cobertura municipal e execução orçamentária;
 * **3. Desafios para a continuidade da ação**: pontos de atenção orçamentários, operacionais, tecnológicos e de gestão para o próximo ciclo.
 
@@ -331,9 +331,7 @@ def gerar_arquivos_subsecretarias(base_dir: str) -> None:
                         [
                             f"== {acao}",
                             "",
-                            f"[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: {resp['nome']}#",
-                            "",
-                            "=== 1. Descrição resumida",
+                            "=== 1. Descrição",
                             "// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).",
                             "_Texto pendente de envio pela área técnica._",
                             "",

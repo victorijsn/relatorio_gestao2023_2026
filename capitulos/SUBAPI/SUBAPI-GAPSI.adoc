@@ -1,0 +1,28 @@
+= Gerência de Articulação com Projetos Sociais Intersetoriais
+
+.Identificação da Unidade
+[cols="1,3", options="header"]
+|===
+| Campo | Preenchimento
+| *Subsecretaria* | SUBAPI – Subsecretaria de Estado de Articulação de Políticas Intersetoriais
+| *Gerência ou setor* | Gerência de Articulação com Projetos Sociais Intersetoriais
+| *Responsável* | Jean Darkisson Matos Brandão (Gerente)
+| *Contato* | jeanbrandao@setades.es.gov.br   3636-6882
+|===
+
+'''
+
+== Brinquedopraça
+
+=== 1. Descrição
+// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
+
+
+=== 2. Entregas realizadas no mandato (2023 a 2026)
+// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
+
+
+=== 3. Desafios para a continuidade da ação
+// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
+
+<<<

@@ -14,9 +14,7 @@
 
 == HUB-SETADES - Projeto de gestão do conhecimento da secretaria
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -32,9 +30,7 @@ _Texto pendente de envio pela área técnica._
 
 == Sistema de Gestão de Eventos da SETADES - Projeto
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -50,9 +46,7 @@ _Texto pendente de envio pela área técnica._
 
 == Comissão de aprimoramento do Programa Incluir 2.0
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -68,9 +62,7 @@ _Texto pendente de envio pela área técnica._
 
 == Rotina de tratamento de Dados e Informações da SETADES
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -86,9 +78,7 @@ _Texto pendente de envio pela área técnica._
 
 == Relatórios de gestão da SETADES
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -104,9 +94,7 @@ _Texto pendente de envio pela área técnica._
 
 == Relatório de Gestão para o Tribunal de Contas do Espírito Santo
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -122,9 +110,7 @@ _Texto pendente de envio pela área técnica._
 
 == Ponto focal do Planejamento de Governo junto à SEP
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -140,9 +126,7 @@ _Texto pendente de envio pela área técnica._
 
 == Condução do planejamento estratégico da SETADES
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -158,9 +142,7 @@ _Texto pendente de envio pela área técnica._
 
 == Gestão da parceria com Motriz, SEGER e Fapes para o programa de trainee
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -176,9 +158,7 @@ _Texto pendente de envio pela área técnica._
 
 == Construção de instrumentos de monitoramento e avaliação das políticas da SETADES
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
@@ -194,9 +174,7 @@ _Texto pendente de envio pela área técnica._
 
 == Coordenação do Escritório Local de Processos e Inovação (ELPI)
 
-[.detalhe]#Parte 1: Relato da ação (limite de 1 página por ação) • Responsável: Victor Nunes Toscano (Gerente)#
-
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 _Texto pendente de envio pela área técnica._
 
