@@ -1,4 +1,4 @@
-= Relatório de Gestão SETADES (2023–2026)
+= RELATÓRIO DE GESTÃO (2023–2026)
 Secretaria de Estado de Trabalho, Assistência e Desenvolvimento Social <setades@setades.es.gov.br>
 v1.0, 2026: Consolidação Quadrienal das Áreas Técnicas
 :doctype: book
