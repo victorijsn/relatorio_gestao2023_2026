@@ -1,14 +1,13 @@
-= Gerência de Benefícios e Transferência de Renda (GBTR)
+= GBTR - Gerência de Benefícios e Transferência de Renda
 
 .Identificação da Unidade
 [cols="1,3", options="header"]
 |===
 | Campo | Preenchimento
-| *Subsecretaria* | Subsecretaria de Estado de Assistência e Desenvolvimento Social (SUBADES)
-| *Gerência ou setor* | Gerência de Benefícios e Transferência de Renda (GBTR)
-| *Responsável* | Ricardo Azevedo Masruha (Gerente)
-| *Contato* | ricardo.masruha@setades.es.gov.br / Telefone: (27) 3636-6875
-
+| *Subsecretaria* | SUBADES - Subsecretaria de Estado de Assistência e Desenvolvimento Social
+| *Gerência ou setor* | GBTR - Gerência de Benefícios e Transferência de Renda
+| *Responsável* | Ricardo Azevedo Masruha - Gerente de Benefícios e Transferência de Renda
+| *Contato* | ricardo.masruha@setades.es.gov.br Telefone: (27) 3636-6875
 |===
 
 '''
@@ -83,7 +82,6 @@ Inclui elaboração de manifestações técnicas, estudos de elegibilidade, revi
 
 A atuação fortalece a governança, a rastreabilidade das decisões, a prevenção de inconsistências e a eficiência da aplicação dos recursos públicos. Indicadores operacionais e resultados quantitativos devem ser consolidados a partir dos registros da unidade.
 
-
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
 Entre os principais desafios destacam-se o aprimoramento da integração entre sistemas estaduais e federais, a disponibilidade de bases de dados atualizadas, o fortalecimento dos mecanismos de monitoramento e controle e a necessidade de constante adequação dos procedimentos às alterações normativas. Também se evidencia a importância de manter estrutura técnica e operacional compatível com a complexidade e o volume das atividades desenvolvidas pela Gerência.
@@ -137,6 +135,8 @@ Benefício assistencial federal que assegura um salário mínimo mensal à pesso
 A GBTR realiza articulação e apoio técnico às gestões municipais, disseminando orientações sobre acesso e manutenção do BPC, atualização do Cadastro Único e integração com a rede socioassistencial. Além de acompanhar e apoiar a implementação do Programa BPC na Escola, iniciativa intersetorial voltada à identificação e superação de barreiras ao acesso e à permanência na escola de crianças e adolescentes com deficiência beneficiários do BPC.
 
 Nesse âmbito, incentiva a articulação entre assistência social, educação, saúde e direitos humanos, bem como o acompanhamento das ações municipais e da aplicação dos instrumentos de identificação de barreiras.
+
+As ações fortalecem a proteção social de pessoas idosas e pessoas com deficiência e, por meio do BPC na Escola, contribuem para a inclusão educacional e a garantia de direitos para o público atendido.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
