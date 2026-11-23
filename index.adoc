@@ -25,7 +25,7 @@ toc::[]
 // =============================================================================
 // INTRODUÇÃO E SÍNTESE EXECUTIVA
 // =============================================================================
-include::capitulos/00-introducao.adoc[leveloffset=+1]
+include::capitulos/00-introducao.adoc[]
 
 // =============================================================================
 // 1. SUBSECRETARIA DE ESTADO PARA ASSUNTOS ADMINISTRATIVOS (SUBAAD)
@@ -41,7 +41,11 @@ include::capitulos/SUBAAD/SUBAAD-GADM.adoc[leveloffset=+1]
 // =============================================================================
 include::capitulos/SUBAPI/_index.adoc[]
 
+include::capitulos/SUBAPI/SUBAPI-GABINETE.adoc[leveloffset=+1]
+
 include::capitulos/SUBAPI/SUBAPI-GCAM.adoc[leveloffset=+1]
+
+include::capitulos/SUBAPI/SUBAPI-GAPSI.adoc[leveloffset=+1]
 
 // =============================================================================
 // 3. SUBSECRETARIA DE ESTADO DE ASSISTÊNCIA E DESENVOLVIMENTO SOCIAL (SUBADES)
