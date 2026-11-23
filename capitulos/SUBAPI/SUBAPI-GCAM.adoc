@@ -4,90 +4,89 @@
 [cols="1,3", options="header"]
 |===
 | Campo | Preenchimento
-| *Subsecretaria* | Subsecretaria de Estado de Articulação de Políticas Intersetoriais (SUBAPI)
+| *Subsecretaria* | SUBAPI – Subsecretaria de Estado de Articulação de Políticas Intersetoriais
 | *Gerência ou setor* | Gerência de Capacitação, Articulação e Mobilização
-| *Responsável* | Cláudia Pessin Machado Vieira; Elaine de Oliveira Leppaus
-| *Contato* | _A preencher (e-mail institucional e telefone/ramal)_
+| *Responsável* | Cláudia Pessin Machado Vieira
+| *Contato* | primeirainfancia@setades.es.gov.br   claudiapessin@setades.es.gov.br   3636-6882
 |===
 
 '''
 
-== FOCO - Programa de Formação dos Gestores e Profissionais da Assistência Social, Saúde e Educação
+== Boas práticas pela Primeira Infância - BPIC
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+O concurso Boas Práticas pela Primeira Infância (BPIC), teve como objetivo identificar, dar visibilidade, reconhecer e valorizar o dia a dia dos profissionais das áreas da Assistência Social, Saúde e Educação, bem como, fortalecer as iniciativas  que promovam impactos positivos  no desenvolvimento infantil e contribuam para a disseminação de  boas práticas EXITOSAS voltadas às  crianças capixabas.
+
+O processo de avaliação, julgamento e definição dos projetos vencedores é conduzido  pela Comissão Estadual do Concurso, constituída por membros do Comitê Estadual Intersetorial de Políticas Públicas pela Primeira Infância do Estado do Espírito Santo, representantes do COGEMASES (Colegiado de Gestores Municipais de Assistência Social do Espírito Santo) e servidores da SETADES.
+
+O concurso é apresentado aos Municípios por meio de seminário realizado no início do ano, ocasião em que é divulgado o regulamento e orientações sobre as etapas e os procedimentos necessários para participação. Entre as etapas previstas estão a inscrição, a elaboração do projeto, execução e encaminhamento dos relatos e materiais audiovisuais  comprobatórios de sua realização.
+
+Em geral, no mês de novembro ocorre a cerimônia de premiação com a  apresentação dos projetos vencedores aos representantes dos Municípios Capixabas, proporcionando o compartilhamento de experiências, a troca de conhecimento e a disseminação de iniciativas exitosas que podem inspirar e fortalecer às políticas públicas à primeira infância.
+
+Nas três últimas edições, a realização da premiação foi viabilizada por meio da parceria entre o Sistema OCB/ES, Colegiado de Gestores Municipais de Assistência Social do Espírito Santo e SETADES, evidenciando a importância da articulação institucional e da cooperação entre diferentes atores para o fortalecimento das políticas públicas pela primeira infância. O Concurso valoriza os profissionais que estão diariamente com os usuários.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+* 2023 - 12 municípios e 23 projetos;
+* 2024 - 16 municípios e 23 projetos;
+* 2025 - 20 municípios e 26 projetos;
+* 2026 - 18 municípios e 22 projetos.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+O Concurso constitui importante estratégia de mobilização e articulação entre Gestão do Estado e Gestão Municipal, possibilitando que as equipes municipais pensem, planejem  e executem novos projetos voltados para gestantes, crianças de 0 a 06 anos e suas famílias.
+
+A execução demanda significativo esforço operacional da equipe estadual, que possui quantitativo reduzido de profissionais para conduzir as etapas do concurso, incluindo a divulgação e mobilização dos Municípios, o acompanhamento das atividades e premiação, além do desafio de buscar parcerias para premiação.
 
 <<<
 
-== BPIC - Boas Práticas pela Primeira Infância
+== Observatório da Primeira Infância - OPIC
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+O Observatório está previsto no Plano Estadual pela Primeira Infância (PEPI), com vistas a produzir, sistematizar e disponibilizar para gestores e a sociedade em geral informações qualificadas  e regulares sobre a primeira infância no Espírito Santo, no contexto das políticas públicas.
+
+Teve início através de  uma parceria entre a FAPES, SERD, IJSN e SETADES, onde em julho de 2026, foram contratados 4 (quatro) bolsistas e no mês de novembro mais um, totalizando 05 (cinco) bolsistas, com entregas previstas como: painel de indicadores sobre a Primeira Infância, notas técnicas relativas a cada etapa de implementação do painel de indicadores, boletim anual sobre a Primeira Infância, Seminários de rodas de conversas sobre informações dos painéis, desenho do observatório Capixaba da Primeira Infância (metodologia, estrutura de funcionamento, governança e modelo lógico), Minuta de instrumento legal que formalize  observatório, Textos sobre infâncias (Revisão de literatura) e Relatório de pesquisa e sumário executivo.
+
+A entrega final está prevista para maio de 2028, mas durante esse período teremos várias entregas intermediárias.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+* Entrega do PEPI (Fevereiro de 2023)
+* Assinatura do termo de parceria entre os órgãos envolvidos
+* Contratação dos bolsistas
+* Nesse período de 06 meses, foi realizado:
+* Mapeamento dos observatórios existentes e indicadores utilizados;
+* Definição prévia dos indicadores do OPIC;
+* Inventário e catalogação das bases de dados relacionados à Primeira Infância.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+O Observatório constitui uma importante estratégia para sistematizar e disponibilizar dados e indicadores referentes às condições de vida das crianças de 0 a 6 anos. Nesse contexto, um dos principais desafios à sua continuidade e ao seu fortalecimento está relacionado à possível interrupção dos repasses de recursos financeiros, o que poderá comprometer a manutenção e o desenvolvimento das ações previstas.
 
 <<<
 
-== Observatório Capixaba da Primeira Infância
+== Programa de Formação dos Gestores e Profissionais da Assistência Social, Saúde e Educação - FOCO
 
 === 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
+Esse Projeto, realiza capacitações para os profissionais da Assistência Social, Saúde e Educação, sobre a importância do investimento e cuidados na Primeira Infância.
+
+São várias as ações realizadas, reuniões presenciais, virtuais, seminários, oficinas, capacitações, apoios às equipes Municipais, workshop, entrega do PEPI e participação em  conferências Municipais como palestrante.
+
+O FOCO tem como proposta debater  temáticas importantes que  tangenciam o dia a dia das crianças, famílias e profissionais que atuam com esse segmento.
 
 === 2. Entregas realizadas no mandato (2023 a 2026)
 // Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
+Durante esse período, atingimos, em torno de 5.000 (cinco mil) pessoas, entre,  Gestores Estaduais e Municipais, técnicos estaduais e municipais, equipes do Programa Criança Feliz, conselheiros estaduais e municipais, membros dos Comitês estadual e municipais, entre outros.
+
+Nos anos de 2024 e 2025, realizamos várias Oficinas, juntamente com o Comitê Estadual pela Primeira Infância e conseguimos chegar em 48 Municípios com os PMPI aprovados pelas Câmaras Municipais.
 
 === 3. Desafios para a continuidade da ação
 // Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Mobilização das equipes estaduais e municipais, principalmente das Secretarias parceiras, como Saúde, Educação, Esporte, Administração e Cultura.
 
-<<<
-
-== Concurso Primeira Infância com Arte - PIARTE
-
-=== 1. Descrição
-// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
-
-=== 2. Entregas realizadas no mandato (2023 a 2026)
-// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
-
-=== 3. Desafios para a continuidade da ação
-// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
-
-<<<
-
-== Especialização lato sensu "Intersetorialidade para o Desenvolvimento Integral da Primeira Infância"
-
-=== 1. Descrição
-// Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
-_Texto pendente de envio pela área técnica._
-
-=== 2. Entregas realizadas no mandato (2023 a 2026)
-// Orientações: Destaque os resultados alcançados, metas cumpridas, volume de atendimentos ou benefícios, municípios contemplados e recursos executados entre 2023 e 2026.
-_Texto pendente de envio pela área técnica._
-
-=== 3. Desafios para a continuidade da ação
-// Orientações: Aponte as principais dificuldades orçamentárias, operacionais, de pessoal ou de tecnologia que os próximos gestores precisarão enfrentar para manter ou aprimorar a ação.
-_Texto pendente de envio pela área técnica._
+Equipe estadual muito reduzida para preparação dos eventos, além da dificuldade de contratar coffee break e espaços físicos para eventos com mais de 250 participantes.
 
 <<<
