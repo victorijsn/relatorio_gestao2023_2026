@@ -15,7 +15,7 @@
 
 == Gestão e Execução dos Contratos Administrativos de Natureza Continuada
 
-=== 1. Descrição resumida
+=== 1. Descrição
 // Orientações: Explique o que é a iniciativa, quem ela atende (público externo, como famílias e municípios, ou áreas internas da administração) e com qual frequência acontece (contínua, anual, por edital, etc.).
 No período de 2023 a 2026, a SETADES manteve em pleno funcionamento 14 contratos administrativos de natureza continuada destinados à gestão e execução de serviços essenciais, locação de imóveis, manutenção predial, suprimentos (almoxarifado virtual), logística, tecnologia e modernização energética. Essa infraestrutura física, administrativa e operacional garante o pleno funcionamento da estrutura interna da Secretaria e viabiliza a execução de suas atividades institucionais, políticas públicas e serviços socioassistenciais e de trabalho prestados aos municípios capixabas.
 
