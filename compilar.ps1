@@ -8,12 +8,14 @@
     .\compilar.ps1
     .\compilar.ps1 -PadronizarCapitulos
     .\compilar.ps1 -ImportarDocx
+    .\compilar.ps1 -ImportarDocx -SobrescreverDocx
     .\compilar.ps1 -RegenerarTemplates
 #>
 
 param (
     [switch]$RegenerarTemplates = $false,
     [switch]$ImportarDocx = $false,
+    [switch]$SobrescreverDocx = $false,
     [switch]$PadronizarCapitulos = $false,
     [switch]$Forcar = $false
 )
@@ -55,7 +57,11 @@ if ($RegenerarTemplates) {
 # 2. Importar arquivos .docx depositados em "Textos - áreas/" (somente sob demanda)
 if ($ImportarDocx) {
     Write-Host "`n[OPCIONAL] Importando arquivos .docx da pasta 'Textos - áreas/'..." -ForegroundColor Yellow
-    python "scripts\converter_docx_para_adoc.py"
+    if ($SobrescreverDocx) {
+        python "scripts\converter_docx_para_adoc.py" --sobrescrever
+    } else {
+        python "scripts\converter_docx_para_adoc.py"
+    }
     if ($LASTEXITCODE -ne 0) {
         Write-Host "`n[ERRO] Falha na conversão de arquivos .docx (código $LASTEXITCODE)." -ForegroundColor Red
         exit $LASTEXITCODE

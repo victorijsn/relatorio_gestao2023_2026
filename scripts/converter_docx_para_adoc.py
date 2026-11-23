@@ -22,7 +22,9 @@ NS = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
 MAPA_UNIDADES: List[Tuple[List[str], str, str]] = [
     (["GGCONV", "CONVENIO", "CONVÊNIO"], "SUBAAD", "SUBAAD-GGCONV.adoc"),
     (["GADM", "SUBAAD - GA", "GERENCIA ADMINISTRATIVA", "GERÊNCIA ADMINISTRATIVA"], "SUBAAD", "SUBAAD-GADM.adoc"),
-    (["GCAM", "SUBAPI", "CAPACITACAO", "CAPACITAÇÃO", "PRIMEIRA INFANCIA", "PRIMEIRA INFÂNCIA"], "SUBAPI", "SUBAPI-GCAM.adoc"),
+    (["SUBAPI - GABINETE", "SUBAPI-GABINETE"], "SUBAPI", "SUBAPI-GABINETE.adoc"),
+    (["SUBADES - GABINETE", "SUBADES-GABINETE"], "SUBADES", "SUBADES-GABINETE.adoc"),
+    (["GCAM", "CAPACITACAO", "CAPACITAÇÃO", "PRIMEIRA INFANCIA", "PRIMEIRA INFÂNCIA"], "SUBAPI", "SUBAPI-GCAM.adoc"),
     (["GPSB", "PROTECAO SOCIAL BASICA", "PROTEÇÃO SOCIAL BÁSICA"], "SUBADES", "SUBADES-GPSB.adoc"),
     (["GPSE", "PROTECAO SOCIAL ESPECIAL", "PROTEÇÃO SOCIAL ESPECIAL"], "SUBADES", "SUBADES-GPSE.adoc"),
     (["GBTR", "BENEFICIOS", "BENEFÍCIOS", "TRANSFERENCIA DE RENDA", "TRANSFERÊNCIA DE RENDA"], "SUBADES", "SUBADES-GBTR.adoc"),
@@ -113,9 +115,18 @@ def parse_docx_modelo(caminho_docx: str) -> Dict:
     secao_atual: Optional[str] = None
     aguardando_titulo = False
 
-    re_desc = re.compile(r"^1\.\s*Descri[çc][ãa]o(\s+resumida)?\b", flags=re.IGNORECASE)
-    re_entr = re.compile(r"^2\.\s*Entregas\s+realizadas", flags=re.IGNORECASE)
-    re_desa = re.compile(r"^3\.\s*Desafios\s+para\s+a\s+continuidade", flags=re.IGNORECASE)
+    re_desc = re.compile(
+        r"^(?:1\s*[\.\-\)]\s*)?descri[çc][ãa]o(?:\s+resumida)?\s*:?\s*$",
+        flags=re.IGNORECASE,
+    )
+    re_entr = re.compile(
+        r"^(?:2\s*[\.\-\)]\s*)?entregas(?:\s+(?:realizadas(?:\s+no\s+mandato)?|e\s+desenvolvimento(?:\s+no\s+per[íi]odo)?)(?:\s*\([^)]*\))?)?\s*:?\s*$",
+        flags=re.IGNORECASE,
+    )
+    re_desa = re.compile(
+        r"^(?:3\s*[\.\-\)]\s*)?desafios(?:\s+para\s+a\s+continuidade(?:\s+da\s+a[çc][ãa]o)?)?\s*:?\s*$",
+        flags=re.IGNORECASE,
+    )
     re_parte1 = re.compile(r"^Parte\s+1\s*:", flags=re.IGNORECASE)
     re_parte2 = re.compile(r"^Parte\s+2\s*:", flags=re.IGNORECASE)
 
@@ -262,7 +273,11 @@ def gerar_adoc_unidade(dados: Dict, nome_padrao_unidade: str) -> str:
     return "\n".join(linhas)
 
 
-def processar_pasta(base_dir: str, arquivo_especifico: Optional[str] = None) -> int:
+def processar_pasta(
+    base_dir: str,
+    arquivo_especifico: Optional[str] = None,
+    sobrescrever: bool = False,
+) -> int:
     pasta_entrada = os.path.join(base_dir, "Textos - áreas")
     if arquivo_especifico:
         arquivos = [arquivo_especifico]
@@ -295,14 +310,24 @@ def processar_pasta(base_dir: str, arquivo_especifico: Optional[str] = None) -> 
             caminho_saida = os.path.join(base_dir, "capitulos", "EXTRAS", f"{slug}.adoc")
 
         if not dados["acoes"]:
-            print(f"[AVISO] '{nome_arq}' não possui fichas preenchidas na Parte 1; mantendo template atual.")
+            print(f"[AVISO] '{nome_arq}' não possui fichas preenchidas na Parte 1; nenhuma alteração feita.")
             continue
 
+        ja_existe = os.path.exists(caminho_saida)
+        if ja_existe and not sobrescrever:
+            print(
+                f"[PULADO] '{nome_arq}' -> '{caminho_saida}' já existe "
+                "(mantido sem alterações; use --sobrescrever para substituir)."
+            )
+            continue
+
+        os.makedirs(os.path.dirname(caminho_saida), exist_ok=True)
         conteudo_adoc = gerar_adoc_unidade(dados, os.path.splitext(nome_arq)[0])
         with open(caminho_saida, "w", encoding="utf-8") as f:
             f.write(conteudo_adoc)
         convertidos += 1
-        print(f"[OK] '{nome_arq}' ({len(dados['acoes'])} ações) -> '{caminho_saida}'")
+        acao_log = "SOBRESCRITO" if ja_existe else "CRIADO"
+        print(f"[{acao_log}] '{nome_arq}' ({len(dados['acoes'])} ações) -> '{caminho_saida}'")
 
     return convertidos
 
@@ -310,7 +335,12 @@ def processar_pasta(base_dir: str, arquivo_especifico: Optional[str] = None) -> 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Converte arquivos .docx das áreas para .adoc")
     parser.add_argument("--arquivo", help="Caminho para um arquivo .docx específico", default=None)
+    parser.add_argument(
+        "--sobrescrever",
+        action="store_true",
+        help="Sobrescreve o arquivo .adoc de destino caso ele já exista",
+    )
     args = parser.parse_args()
 
     raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    processar_pasta(raiz, args.arquivo)
+    processar_pasta(raiz, args.arquivo, sobrescrever=args.sobrescrever)
